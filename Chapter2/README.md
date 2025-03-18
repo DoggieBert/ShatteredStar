@@ -7,7 +7,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 ## Level 5
 
-#### [Addition 6: Dawn of the Scarlet Sun](../Additions/6-dawn-of-the-scarlet-sun.md)
+#### [Addition 6: Dawn of the Scarlet Sun](../Additions/06-dawn-of-the-scarlet-sun.md)
 
 _This Free RPG Day adventure ties into the events in Curse of the Lady’s Light and provides some foreshadowing of what is to come.  Plus it’s free!_<br>
 **Treasure:** 175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)
@@ -16,7 +16,7 @@ _This Free RPG Day adventure ties into the events in Curse of the Lady’s Light
 
 **Treasure:** Sheila gives the party a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
 
-#### [Addition 7: Curse of the Lady’s Light Web Supplement](../Additions/7-web-supplement.md)
+#### [Addition 7: Curse of the Lady’s Light Web Supplement](../Additions/07-web-supplement.md)
 
 _This was originally supposed to be Part One of the adventure, but it got cut for space.  Fortunately, Paizo gave it back to us as a free web supplement._<br>
 **Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?ID=481), +1 dagger

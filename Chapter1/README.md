@@ -14,7 +14,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
     *   **Treasure:** [Silver Dagger (Low-Grade)](https://2e.aonprd.com/Equipment.aspx?ID=379)
 
 
-#### [Addition 1: PFS 4-01 - Rise of the Goblin Guild](../Additions/1-rise-of-the-goblin-guild.md)
+#### [Addition 1: PFS 4-01 - Rise of the Goblin Guild](../Additions/01-rise-of-the-goblin-guild.md)
 
 _This is a nice starting adventure that allows you to show the players Heidmarch Manor and get to know Sheila Heidmarch a bit._<br>
 **Treasure:** +1 Horsechopper, [Alchemist’s Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) (Lesser), [Cat’s Eye Elixir](https://2e.aonprd.com/Equipment.aspx?ID=85)
@@ -51,7 +51,7 @@ _This is a nice starting adventure that allows you to show the players Heidmarch
     *   _Note, if using the additions Fenster’s information should point to Natalya having gone to Riddleport with the shard to maintain location continuity with Additions 2 & 3._
 
 
-#### [Addition 2: PFS 4-07 - Severing Ties](../Additions/2-severing-ties.md)
+#### [Addition 2: PFS 4-07 - Severing Ties](../Additions/02-severing-ties.md)
 
 _This adventure introduces players to both the Aspis Consortium and the Cult of Lissala.  The Aspis consortium is a nice foil to the Pathfinder Society and can be played up as an ongoing antagonist if you desire; perhaps even adding a party of Consortium agents that is also after the shards.  The Cult of Lissala plays into the Runelord theme, and ties into higher level Additions that I will be adding._<br>
 **Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of [Heal](https://2e.aonprd.com/Spells.aspx?ID=148) (level 1), [Healer’s Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) (Expanded), 90 sp
@@ -102,7 +102,7 @@ _This adventure introduces players to both the Aspis Consortium and the Cult of 
 
 ## Level 2
 
-#### [Addition 3: PFS 4-02 - In Wrath’s Shadow](../Additions/3-in-wraths-shadow.md)
+#### [Addition 3: PFS 4-02 - In Wrath’s Shadow](../Additions/03-in-wraths-shadow.md)
 
 _This module gets the players thinking about Lissala some more and is conveniently located on the way back from Riddleport.  It also forces one of the players to deal with the effects of the Shard of Pride for a while which can lead to some fun roleplaying opportunities.  I originally converted this for level 3 characters, but made a level 2 version so it could slot in here._<br>
 **Treasure:** Scroll of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256), 24gp in gemstones, [Onyx Panther](https://2e.aonprd.com/Equipment.aspx?ID=229), [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44-acrimony-veil)
@@ -191,7 +191,7 @@ _This module gets the players thinking about Lissala some more and is convenient
 
 ## Level 3
 
-#### [Addition 4: PFS 4-14 - My Enemy’s Enemy](../Additions/4-my-enemys-enemy.md)
+#### [Addition 4: PFS 4-14 - My Enemy’s Enemy](../Additions/04-my-enemys-enemy.md)
 
 _This continues to flesh out the Aspis Consortium as an antagonist to the Pathfinders.  This can go anywhere in the second half of the adventure path._<br>
 **Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [Sturdy Shield (Minor)](https://2e.aonprd.com/Equipment.aspx?ID=327), [Alchemist Goggles](https://2e.aonprd.com/Equipment.aspx?ID=408), [Acid Flask (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)
@@ -310,7 +310,7 @@ _This continues to flesh out the Aspis Consortium as an antagonist to the Pathfi
 
 ## Level 4
 
-#### [Addition 5: PFS 4-23 - Rivalry’s End](../Additions/5-rivalrys-end.md)
+#### [Addition 5: PFS 4-23 - Rivalry’s End](../Additions/05-rivalrys-end.md)
 
 _This wraps up the story arc of The Spider and her role in the Aspis Consortium started with Addition 2.  This can occur any time in this section of the adventure if your players need a break from dungeon crawling, or after they have found the second shard.  You likely want to modify the ending of this module, since the PFS Shadow Lodge plotline isn’t important to this adventure path.  My recommendation is to have a tie in to the Cult of Lissala to tie into higher level PFS scenarios that can be run as additions to later books of this AP._<br>
 **Treasure:** [Disguise Kit](https://2e.aonprd.com/Equipment.aspx?ID=19) (4), [Thieves’ Tools](https://2e.aonprd.com/Equipment.aspx?ID=58) (2), [Ghost Ink](https://2e.aonprd.com/Equipment.aspx?ID=696), Silver serving set worth 10gp, [Potion of Leaping](https://2e.aonprd.com/Equipment.aspx?ID=190), +1 Rapier, [Healing Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=186), [Invisibility Potion](https://2e.aonprd.com/Equipment.aspx?ID=187), gold inkstand, engraved hourglass, and fine paper worth a total of 25 gp, documents worth 50gp.

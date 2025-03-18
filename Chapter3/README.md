@@ -7,7 +7,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 ## Level 9
 
-#### [Addition 8: PFS 4-03 The Golemworks Incident](../Additions/8-the-golemworks-incident.md)
+#### [Addition 8: PFS 4-03 The Golemworks Incident](../Additions/08-the-golemworks-incident.md)
 
 _After being away from Magnimar for so long it’s nice to spend some time back in the city. This module also introduces the Golemworks as a major force in magnimar and continues the theme of the Aspis Consortium being a recurring antagonist of the Pathfinder Society._<br>
 **Treasure:** [Sturdy Shield (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=327), Trusty Buddy (Adamantine [Levered Crowbar](https://2e.aonprd.com/Equipment.aspx?ID=18)), +1 Crossbow, +1 Staff, books worth 300 sp, wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2), +1 striking composite shortbow (20 arrows), +1 rapier, [invisibility potion](https://2e.aonprd.com/Equipment.aspx?ID=187), [giant wasp venom](https://2e.aonprd.com/Equipment.aspx?ID=115), [lesser darkvision elixir](https://2e.aonprd.com/Equipment.aspx?ID=89), Statue of Lissala worth 250 sp, 4 [Lesser Elixer of Life](http://2e.aonprd.com/Equipment.aspx?ID=91), [Slippers of Spider Climbing](http://2e.aonprd.com/Equipment.aspx?ID=465),  (+1 sickle, [moderate antidote](https://2e.aonprd.com/Equipment.aspx?ID=80), [moderate antiplague](https://2e.aonprd.com/Equipment.aspx?ID=81)) * 2, +1 crossbow, +1 resilient explorer's clothing, [moderate healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186), [staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351), [Dusty Rose Prism Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), 100gp
@@ -16,7 +16,7 @@ _After being away from Magnimar for so long it’s nice to spend some time back 
 
 _Note that if you’re using the additions then the route from Magnimar is a bit different. The party takes a ship to Korvosa and then to Palin’s Cove. From Palin’s Cove they take an overland trek to Melfesh, and from there take the Lucky Jenny the rest of the way to the Halflight Path._
 
-#### [Addition 9: PFS 4-06 The Green Market](../Additions/9-the-green-market.md)
+#### [Addition 9: PFS 4-06 The Green Market](../Additions/09-the-green-market.md)
 
 _In my game several characters are from Korvosa and the players recently finished Curse of the Crimson Throne, so re-visiting the city itself is meaningful to them.  This module has connections to both the Aspis Consortium and the Cult of Lissala, but isn’t a critical story component, so feel free to skip it if you don’t want to stop by Korvosa.  If you do skip this one you’ll want to have Sheila give the party the [Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) before they leave Magnimar._<br>
 **Treasure:** +1 Morningstar (4), +1 Spear, [Potion of Moderate Resistance](http://2e.aonprd.com/Equipment.aspx?ID=192) (2 fire), [Moderate Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186) (3), [Potion of Quickness](http://2e.aonprd.com/Equipment.aspx?ID=191), +1 Striking Ghost Touch Staff, [Elemental Gem (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=243), [Necklace of Fireballs III](http://2e.aonprd.com/Equipment.aspx?ID=449)_, _[Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)

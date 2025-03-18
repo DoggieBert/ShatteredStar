@@ -1,6 +1,6 @@
 # PFS 4-08 The Cultist’s Kiss
 
-_This conversion is meant to be used as an adventure for characters in the Shattered Star adventure path.  It is targeted at a party of 4 level 9 characters. _
+_This conversion is meant to be used as an adventure for characters in the Shattered Star adventure path.  It is targeted at a party of 4 level 9 characters._
 
 ## Getting Started
 
