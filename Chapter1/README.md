@@ -98,20 +98,20 @@ _This adventure introduces players to both the Aspis Consortium and the Cult of 
     *   [Natayla Vancaskerkin](http://monster.pf2.tools/v/vOHCv8Z8) ([image](../Creatures/natayla-vancaskerkin.png))
     *   Sewer Goblins (2)
     *   For 5 players add one Sewer Goblin.
-    *   **Treasure:** [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356), Climbing Kit 6 gp, 85 sp, 123 cp, [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
+    *   **Treasure:** [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356), Climbing Kit 6 gp, 85 sp, 123 cp, [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
 
 ## Level 2
 
 #### [Addition 3: PFS 4-02 - In Wrath’s Shadow](../Additions/03-in-wraths-shadow.md)
 
 _This module gets the players thinking about Lissala some more and is conveniently located on the way back from Riddleport.  It also forces one of the players to deal with the effects of the Shard of Pride for a while which can lead to some fun roleplaying opportunities.  I originally converted this for level 3 characters, but made a level 2 version so it could slot in here._<br>
-**Treasure:** Scroll of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256), 24gp in gemstones, [Onyx Panther](https://2e.aonprd.com/Equipment.aspx?ID=229), [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44-acrimony-veil)
+**Treasure:** Scroll of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256), 24gp in gemstones, [Onyx Panther](https://2e.aonprd.com/Equipment.aspx?ID=229), [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44-acrimony-veil) ([image](../Items/acrimony-veil.png))
 
 ### Part Three: In the Crow’s Nest
 
 #### Learning About the Shard
 
-* **Treasure:** [Scarlet and Blue Aeon Stone](https://template.pf2.tools/v/X2mRb2Lp)
+* **Treasure:** [Scarlet and Blue Aeon Stone](https://template.pf2.tools/v/X2mRb2Lp) ([image](../Items/scarlet-and-blue-aeon-stone.png))
 
 #### The Crow
 
@@ -156,7 +156,7 @@ _This module gets the players thinking about Lissala some more and is convenient
 *   **B23. Ayala’s Quarters (Moderate 2)**
     *   Ayala Javeski (Use Elite [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)) and Donkey Rats (2)
     *   **Treasure (Ayala):** +1 Bladed Scarf, [Healing Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=186)
-    *   **Treasure (Nazir):** [Pendant of the Souk](https://template.pf2.tools/v/10qc19zw), 175 sp.
+    *   **Treasure (Nazir):** [Pendant of the Souk](https://template.pf2.tools/v/10qc19zw) ([image](../Items/pendant-of-the-souk.png)), 175 sp.
     *   For 5 players add Elite Donkey Rat, [Juggernaut Mutagen (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=94)
 *   **B25. Ancient Bath (Low 2)**
     *   [Giant Amoebas](https://2e.aonprd.com/Monsters.aspx?ID=751) (2)
@@ -337,7 +337,7 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
     *   For 5 players use the Elite adjustment
 *   **D8. Dero Vault (Severe 4)**
     *   Caedimus (Use [Dero Strangler](https://2e.aonprd.com/Monsters.aspx?ID=106).  Add [Healer’s Gloves](https://2e.aonprd.com/Equipment.aspx?ID=444))
-    *   Portioque (Use [Dero Strangler](https://2e.aonprd.com/Monsters.aspx?ID=106).  Add [Injection Spear](https://2e.aonprd.com/Weapons.aspx?ID=170), replace Lethargy Poison with [Frostspore](https://template.pf2.tools/v/Bl2wjl88))
+    *   Portioque (Use [Dero Strangler](https://2e.aonprd.com/Monsters.aspx?ID=106).  Add [Injection Spear](https://2e.aonprd.com/Weapons.aspx?ID=170), replace Lethargy Poison with [Frostspore](https://template.pf2.tools/v/Bl2wjl88)) ([image](../Items/frostspore.png))
     *   Atlatia (Use [Dero Strangler](https://2e.aonprd.com/Monsters.aspx?ID=106).  Add Cytellish Stare [Derro Magister](https://2e.aonprd.com/Monsters.aspx?ID=107) ability with DC21)
     *   **Treasure:** [Healer’s Gloves](https://2e.aonprd.com/Equipment.aspx?ID=444), [Injection Spear](https://2e.aonprd.com/Weapons.aspx?ID=170)
     *   For 5 players give each Derro the Elite adjustment.
@@ -349,7 +349,7 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
     *   Portioque
     *   Darmantle (Replace with [Ravenous Giant Centipede](https://pf2easy.com/index.php?id=4887&name=ravenous_giant_centipede))
     *   **Hazard:** [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
-    *   **Treasure:** [Extraction Scarificator](https://template.pf2.tools/v/996Q69PL), Formula for [Leaper’s Elixir (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=95), [Infiltrator’s Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93), and [Drakeheart Mutagen (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=688)
+    *   **Treasure:** [Extraction Scarificator](https://template.pf2.tools/v/996Q69PL) ([image](../Items/extraction-scarificator.png)), Formula for [Leaper’s Elixir (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=95), [Infiltrator’s Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93), and [Drakeheart Mutagen (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=688)
     *   For 5 players add one of each of the elixirs a formula is found for.
 *   **D11. Atlatia’s Dungeon (Moderate 4)**
     *   Atlatia
@@ -367,11 +367,11 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
     *   For 5 players add 1 more Homunculus and give them all the Elite adjustment.  Add scrolls of [Sudden Bolt](https://2e.aonprd.com/Spells.aspx?ID=639) and [Rime Slick](https://2e.aonprd.com/Spells.aspx?ID=632).
 *   **D15. Sihedron Shrine (Severe 4)**
     *   [Advanced Shriezyx](./Creatures/advanced_shriezyx.pdf) (2)
-    *   **Treasure:** [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
+    *   **Treasure:** [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
     *   For 5 players add a [Grothlut](https://2e.aonprd.com/Monsters.aspx?ID=206)
 
 ### Concluding the Adventure
-*When the characters return to Heidmarch Manor Sheila gives them a [Gold Nodule Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) which is attuned to the Thassilonian language. This can be used to suppress the curse of the [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR).*
+*When the characters return to Heidmarch Manor Sheila gives them a [Gold Nodule Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) which is attuned to the Thassilonian language. This can be used to suppress the curse of the [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png)).*
 
 ## Side Quests
 
@@ -382,16 +382,16 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
         *   **Treasure:** 50 gp
 *   **Key NPC Quests**
     *   **Natalya Vancaskerkin**
-        *   **Treasure:** [Cat Burglar's Boots](https://template.pf2.tools/v/fo7TjZlm)
+        *   **Treasure:** [Cat Burglar's Boots](https://template.pf2.tools/v/fo7TjZlm) ([image](../Items/cat-burglars-boots.png))
     *   **Sheila Heidmarch**
         *   **Treasure:** 1 [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470) for each character.
 *   **Minor Quests**
     *   **Nazir Kalmeralm**
-        *   **Treasure:** [Pendant of the Souk](https://template.pf2.tools/v/10qc19zw), 10gp/player
+        *   **Treasure:** [Pendant of the Souk](https://template.pf2.tools/v/10qc19zw) ([image](../Items/pendant-of-the-souk.png)), 10gp/player
     *   **Seeking Sinspawn**
         *   **Treasure:** 10gp per head
 
 ## Shards
 
-*   [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
-*   [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
+*   [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
+*   [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
