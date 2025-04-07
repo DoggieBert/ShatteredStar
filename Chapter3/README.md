@@ -24,7 +24,7 @@ _In my game several characters are from Korvosa and the players recently finishe
 #### [Addition 10: PFS 4-08 The Cultist’s Kiss](../Additions/10-the-cultists-kiss.md)
 
 _This is the first in a 5 part series of modules in which the Cult of Lissala is the major antagonist, and which ends with the defeat of the Runelord Krune._<br>
-**Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp
+**Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance) ([image](../Items/sihedron-brand-endurance.png)), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp
 
 #### Clash with the Sorebacks (Low 9)
 
@@ -83,7 +83,7 @@ _Part 2 of the Cult of Lissala arc is conveniently located right in Kaer Maga.  
 * **A10. Parlor (Trivial 10)**
     * Elite [Tupilaq](https://2e.aonprd.com/Monsters.aspx?ID=1352) (2) created with [Stinking Cloud](https://2e.aonprd.com/Spells.aspx?ID=309)
         * The Tupilaq will only attack if the PCs try to take or damage anything from this room. Otherwise, they remain completely motionless and are easily mistaken for art (DC25 crafting check to recognize them as a creature)
-    * **Treasure:** +1 Striking [Injection Spear](https://template.pf2.tools/v/DLbQSz2P-injection-spear), carpet (150 gp, 5 bulk), Schematics (2) (200gp each)
+    * **Treasure:** +1 Striking [Injection Spear](https://2e.aonprd.com/Weapons.aspx?ID=170), carpet (150 gp, 5 bulk), Schematics (2) (200gp each)
     * For 5 players add 1 more tupilaq and 1 more schematic to the treasure.
 * **A11. Storage**
     * **Treasure:** +1 Striking [Adamantine](http://2e.aonprd.com/Equipment.aspx?ID=374) Dagger (Standard Grade), [Universal Solvent](http://2e.aonprd.com/Equipment.aspx?ID=701) (Moderate) (3), 100 gp of random cogs and clockwork parts (1 bulk), +1 resilient chain shirt
@@ -100,11 +100,11 @@ _Part 2 of the Cult of Lissala arc is conveniently located right in Kaer Maga.  
 * **A17. Shrine**
     * **Treasure:** Partially burned incense (50gp)
 * **A18. Servant’s Quarters**
-    * **Treasure:** Perfume worth 10gp, Trunk is locked with a [Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) (good) and contains human skull, ukulele (Virtuoso [Instrument](http://2e.aonprd.com/Equipment.aspx?ID=37)), [Golembane Scarab](https://template.pf2.tools/v/wWH750lQ-golembane-scarab) (3), leather journal.
+    * **Treasure:** Perfume worth 10gp, Trunk is locked with a [Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) (good) and contains human skull, ukulele (Virtuoso [Instrument](http://2e.aonprd.com/Equipment.aspx?ID=37)), [Golembane Scarab](https://template.pf2.tools/v/wWH750lQ-golembane-scarab) ([image](../Items/golembane-scarab.png)) (3), leather journal.
 * **A19. Office**
     * **Treasure:** Lockbox with a [Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) (good) containing 50gp.
 * **A20. Catwalk (Low 10)**
-    * [Halifax](https://monster.pf2.tools/v/0PqRwp40)
+    * [Halifax](https://monster.pf2.tools/v/0PqRwp40) ([image](../Creatures/halifax.png))
     * **Hazard:** Swaying catwalk. Each round a character must make a DC27 Reflex or Acrobatics check. **Success **Flat footed, -2 circumstance to attacks, DC5 flat check or lose manipulate actions, **Failure** fall prone, **Critical Failure** also fall 10 - 20 feet to the roof below.
     * **Treasure:** +1 [Grevious](http://2e.aonprd.com/Equipment.aspx?ID=298) Striking Composite Longbow, Wand of [Resist Energy](http://2e.aonprd.com/Spells.aspx?ID=256) (4th), +1 leather armor
     * For 5 players give Halifax the elite adjustment and add a resilient rune to her armor.
@@ -169,7 +169,7 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
     * For 5 players add 1 more hound.
 * **B7. The Hive (Low 11)**
     * Elite [Hellwasp Swarm](https://2e.aonprd.com/Monsters.aspx?ID=1191) (2)
-    * [Hasari](https://monster.pf2.tools/v/7PXjoR1V)
+    * [Hasari](https://monster.pf2.tools/v/7PXjoR1V) ([image](../Creatures/hasari.png))
     * **Treasure:** +2 resilient leather armor, [Scholarly Journal](https://2e.aonprd.com/Equipment.aspx?ID=64) (Compendium) on Kaer Maga, Karzoug and the Dark Forest,  [Boots of Bounding](http://2e.aonprd.com/Equipment.aspx?ID=412), +2 striking corrosive handwraps of mighty blows, +1 resilient explorer’s clothing, cape of the mountebank, Moderate [Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91),  [Lucky Rabbit’s Foot](https://2e.aonprd.com/Equipment.aspx?ID=568)s
     * For 5 players give Hasari the elite adjustment and add 2 more Moderate Elixirs of Life
 * **B8. Testing Chamber (Trivial 11)**
@@ -193,10 +193,10 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
     * Elite [Moonflower](http://2e.aonprd.com/Monsters.aspx?ID=730) (2)
     * For 5 players use 2 [Counteflora](http://2e.aonprd.com/Monsters.aspx?ID=518)
 * **B11. Sun Room (Trivial 11)**
-    * [Advanced Lurker in Light](https://monster.pf2.tools/v/qZFrrj8R-advanced-lurker-in-light) (3)
+    * [Advanced Lurker in Light](https://monster.pf2.tools/v/qZFrrj8R-advanced-lurker-in-light) ([image](../Creatures/advanced-lurker-in-light.png)) (3)
     * For 5 players add 1 more Lurker in Light
 * **B12. Drowning Chamber (Moderate 11)**
-    * Hummelgau ([Advanced Grodair](https://monster.pf2.tools/v/Ho6Xr57x-advanced-grodair))
+    * Hummelgau ([Advanced Grodair](https://monster.pf2.tools/v/Ho6Xr57x-advanced-grodair)) ([image](../Creatures/advanced-grodair.png))
         * Hummelgrau is unable to use his jaws from inside the cage, but can use his tentacle or water jet attacks
     * **Hazard:** Shocking Pool Trap
         * The pool acts on Hummelgrau’s turn
@@ -206,7 +206,7 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
         * The room has 3 electricity runes spread evenly around the room that electrify each round dealing 4d12 electricity damage (Basic reflex) to everyone in the room as long as the water level is raised.  A DC32 (expert) Thievery, Arcana or Nature can disable a rune.  Disabling the first 2 runes reduces the damage by 1d12 each, while disabling the 3rd removes the damage completely.
     * For 5 players give Hummelgrau the elite adjustment.
 * **B13. Rune Door (Moderate 11)**
-    * [Silasni](https://monster.pf2.tools/v/598RXpvl)
+    * [Silasni](https://monster.pf2.tools/v/598RXpvl) ([image](../Creatures/silasni.png))
         * **Development:** *Silasni isn’t foolish enough to provoke a fight with a full party of adventurers. She has been studying the door and has figured out the ritual (below). She isn’t looking for allies, but knows she will need the help of others to be able to complete the ritual. When the party shows up she asks the ‘reinforcements’ to help her open the door while using mind reading to get a feeling for what they’re thinking. If they agree, once the ritual is complete, she steps through the door and immediately closes it before the rest of the party can make it through (Roll deception vs. the perception DC to see if the party is able to react).*
     * **Hazard:** Rune Door
         * The Rune Door requires a level 6 (level 5 if primary is using arcana) ritual to open. The steps of this ritual can be discovered with a full day of study and a DC28 Arcana Check or by watching the ritual and a DC26 Arcana Check.
@@ -229,8 +229,8 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
     * **Treasure:** +2 Greater Striking Bo Staff
     * For 5 players remove the weak adjustment from the Piscodaemons.
 * **B15. The Black Menhir (Severe 11)**
-    * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) (2)
-    * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP)
+    * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) ([image](../Creatures/advanced-caulborn.png)) (2)
+    * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP) ([image](../Creatures/chrestomath.png))
     * When returning here through the black menhir each creature must make a DC28 Fort save.
         * **Critical Success** no effect
         * **Success** Drained 1 and Stupefied 1
@@ -243,7 +243,7 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
 ### [Addition 13: PFS 4-20 Words of the Ancients](../Additions/13-words-of-the-ancients.md)
 
 _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’s Thousand Columns east of Kaer Maga to seek out the activation runes for the refuge tokens they collected earlier. This can be run at any time during level 12, so if your characters need a break from Kaer Maga after the Therassic Workshop it can go here, or it can come any time during or just after the Black Keep._<br>
-**Treasure (for 5 players):** [Greater Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256), Scroll of [Divine Wrath](https://2e.aonprd.com/Spells.aspx?ID=86) (5th) If Zonaladin is defeated and his lair searched he also has 12 emeralds worth 50gp each, scroll of [heal](https://2e.aonprd.com/Spells.aspx?ID=148) (5th), Book collection worth 300gp, [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service) (up to 1/player).
+**Treasure (for 5 players):** [Greater Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256), Scroll of [Divine Wrath](https://2e.aonprd.com/Spells.aspx?ID=86) (5th) If Zonaladin is defeated and his lair searched he also has 12 emeralds worth 50gp each, scroll of [heal](https://2e.aonprd.com/Spells.aspx?ID=148) (5th), Book collection worth 300gp, [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service) ([image](../Items/sihedron-brand-service.png)) (up to 1/player).
 
 ### Part Four: The Black Keep
 
@@ -251,7 +251,7 @@ _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’
     * Elite [Tick Swarm](https://2e.aonprd.com/Monsters.aspx?ID=827) (2)
     * For 5 players add 1 more swarm
 * **C3. Great Hall (Low 12)**
-    * [Hungry Fog](https://monster.pf2.tools/v/RQ2XvXPx-hungry-fog) (2)
+    * [Hungry Fog](https://monster.pf2.tools/v/RQ2XvXPx-hungry-fog) ([image](../Creatures/hungry-fog.png)) (2)
     * [Nosferatu Malefactor](http://2e.aonprd.com/Monsters.aspx?ID=1357)
     * **Treasure:** +1 resilient full plate (3), [Demon Armor](http://2e.aonprd.com/Equipment.aspx?ID=150)
     * For 5 players add 2 [Nosferatu Thrall](http://2e.aonprd.com/Monsters.aspx?ID=1356) and a Moderate [Sturdy Shield](http://2e.aonprd.com/Equipment.aspx?ID=327)
@@ -277,15 +277,15 @@ _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’
     * **Treasure:** With 10 minutes of searching and a DC30 perception check can find a book containing the [Raise Dead](http://2e.aonprd.com/Spells.aspx?ID=243) spell and [Resurrect](http://2e.aonprd.com/Rituals.aspx?ID=20) Ritual.
     * For 5 players add a Dread Wraith and a scroll of [Drop Dead](http://2e.aonprd.com/Spells.aspx?ID=92).
 * **C9. Harem (Low 12)**
-    * [Olanna](https://monster.pf2.tools/v/j8ZhrypY)
+    * [Olanna](https://monster.pf2.tools/v/j8ZhrypY) ([image](../Creatures/olanna.png))
     * For 5 players give Olanna the Elite adjustment.
     * **Treasure:** +2 Greater Striking bastard sword
 * **C10. Secret Closet**
     * **Treasure:** +2 Striking [Disrupting](https://2e.aonprd.com/Equipment.aspx?ID=294) longsword, Greater [Hat of Disguise](https://2e.aonprd.com/Equipment.aspx?ID=442), Scroll of [Disrupting Weapons](https://2e.aonprd.com/Spells.aspx?ID=80) (5th)
     * For 5 players add +2 Resilient [Greater Invisibility](https://2e.aonprd.com/Equipment.aspx?ID=287) Leather armor.
 * **C11. Bone Sage’s Quarters (Moderate 12)**
-    * [Maligast of Eox](https://monster.pf2.tools/v/DPPmFcrV-maligast-of-eox)
-    * **Treasure:** [Spy Eyes](https://template.pf2.tools/v/B2WxC7tB-spy-eyes), Greater [Staff of Impossible Visions](https://2e.aonprd.com/Equipment.aspx?ID=748), Scroll of [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=78) (6th), forked metal rods used for plane shift (material plane, dark forest, runeforge).
+    * [Maligast of Eox](https://monster.pf2.tools/v/DPPmFcrV-maligast-of-eox) ([image](../Creatures/maligast-of-eox.png))
+    * **Treasure:** [Spy Eyes](https://template.pf2.tools/v/B2WxC7tB-spy-eyes) ([image](../Items/spy-eyes.png)), Greater [Staff of Impossible Visions](https://2e.aonprd.com/Equipment.aspx?ID=748), Scroll of [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=78) (6th), forked metal rods used for plane shift (material plane, dark forest, runeforge).
     * For 5 players add a [Graveknight](https://2e.aonprd.com/Monsters.aspx?ID=244) and a +1 resilient fullplate.
 * **C12. Dining Hall (Trivial 12)**
     * Shadow Mastiff (6) (Use [Greater Shadow](http://2e.aonprd.com/Monsters.aspx?ID=363))
@@ -298,15 +298,15 @@ _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’
     * **Treasure:** Skin Harp, 
         * A skin harp functions as a Moderate [Maestro’s Instrument](https://2e.aonprd.com/Equipment.aspx?ID=260), but the activation can be used to cast either charm or [bind undead](https://2e.aonprd.com/Spells.aspx?ID=22). Increase the price to 1100gp.
 * **C14. Bathing Pool (Moderate 12)**
-    * [Advanced Mohrg](https://monster.pf2.tools/v/xJ4tsbw2) (3)
+    * [Advanced Mohrg](https://monster.pf2.tools/v/xJ4tsbw2) ([image](../Creatures/advanced-mohrg.png)) (3)
     * The pool deals 2d6 negative damage/healing each round to those within it.
     * **Treasure:** DC30 (expert) perception to find a +2 Striking [Disrupting](https://2e.aonprd.com/Equipment.aspx?ID=294) club.
 * **C16. Naming Pool (Moderate 12)**
-    * [Dark Rider](https://monster.pf2.tools/v/QJXd82Sb)
+    * [Dark Rider](https://monster.pf2.tools/v/QJXd82Sb) ([image](../Creatures/dark-rider.png))
     * Dark Rider’s Mount (Use [Greater Nightmare](http://2e.aonprd.com/Monsters.aspx?ID=309))
         * The Dark Rider’s Mount functions like an Animal Companion. The Dark Rider can spend a single action to give the mount 2 actions, or the mount gets a single stride or strike if not commanded. Since the mount is treated as a minion, its level is 1 lower.
         * If the Dark Rider is killed the Nightmare uses Plane Shift to leave the Dark Forest.
-    * **Treasure:** [Spine Flail](https://template.pf2.tools/v/l2q9YMWx-spine-flail),+2 striking hatchet, +2 resilient full plate, Greater [Oil of Unlife](https://2e.aonprd.com/Equipment.aspx?ID=718), head of Lincora Yier
+    * **Treasure:** [Spine Flail](https://template.pf2.tools/v/l2q9YMWx-spine-flail) ([image](../Items/spine-flail.png)),+2 striking hatchet, +2 resilient full plate, Greater [Oil of Unlife](https://2e.aonprd.com/Equipment.aspx?ID=718), head of Lincora Yier
     * For 5 players give the Dark Rider the elite adjustment, add a second oil of unlife, and add a greater striking rune to the hatchet.
 * **C17. Engines**
     * DC30 perception check to find the hidden doors
@@ -318,7 +318,7 @@ _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’
         * Gain the negative healing ability and the undead trait
         * If killed, automatically rise as a zombie or similar undead.
         * Become doomed 1. This can not be removed while still cursed.
-    * **Treasure:** [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
+    * **Treasure:** [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony) ([image](../Items/shard-of-gluttony.png))
 * **Caulborn Redux (Moderate 12)**
     * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) (2)
     * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP)
@@ -333,13 +333,13 @@ _Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’
         * **Treasure:** [Purple Worm Venom](https://2e.aonprd.com/Equipment.aspx?ID=126) (5)
 * **Key NPC Quests**
     * **Abra Lopati**
-        * **Treasure:** [Greater Halflight Charm](https://template.pf2.tools/v/HvFd6qbS-greater-halflight-charm)
+        * **Treasure:** [Greater Halflight Charm](https://template.pf2.tools/v/HvFd6qbS-greater-halflight-charm) ([image](../Items/greater-halflight-charm.png))
     * **Augustille**
         * **Treasure:** [Marble Elephant Wondrous Figurine](https://2e.aonprd.com/Equipment.aspx?ID=270)
 
 ## Shards
 
-* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
-* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
-* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust)
-* [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
+* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
+* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
+* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust) ([image](../Items/shard-of-lust.png))
+* [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony) ([image](../Items/shard-of-gluttony.png))
