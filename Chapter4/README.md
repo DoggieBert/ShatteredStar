@@ -28,16 +28,16 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 
 * **The Giants (Low - Extreme+ 13)**
   * Three groups each consisting of 
-    * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) (2)
-    * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) (3)
+    * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) ([image](../Creatures/advanced-hill-giant.png)) (2)
+    * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) ([image](../Creatures/advanced-ettin.png)) (3)
   * **Treasure:** +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking flail(1/ettin), +1 striking battle axe (1/ettin)
   * For 5 players add a fourth group of giants.
 
 * **A1. Main Gate (Trivial 13)**
-  * **Hazard:** [Falling Block Trap](https://template.pf2.tools/v/QfJQsRfj-falling-block-trap)
+  * **Hazard:** [Falling Block Trap](https://template.pf2.tools/v/QfJQsRfj-falling-block-trap) ([image](../Hazards/falling-block-trap.png))
 
 * **A2. Courtyard (Trivial 13)**
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (4)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) ([image](../Creatures/advanced-redcap.png)) (4)
   * 1 redcap has a resonating bolt loaded to start this encounter
   * **Treasure:** [Resonating Bolts](https://2e.aonprd.com/Equipment.aspx?ID=1031) (2), +1 striking scythe (1/redcap)
   * For 5 players add 1 redcap
@@ -55,19 +55,19 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
   * Casamir Asmeren *I didn't bother converting Casamir since he's not a combatant. If stats are needed he should be a cleric of Desna of ~level 10.*
 
 * **A6. Gatehouse Storeroom (Trivial 13)**
-  * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap)
+  * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap) ([image](../Hazards/poisoned-pit-trap.png))
 
 * **A7. Gatehouse Stairway**
   * The door is locked with a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30)
 
 * **A8. Gatehouse Guardpost (Trivial 13)**
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (4)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) ([image](../Creatures/advanced-redcap.png)) (4)
   * **Treasure:** +1 striking scythe (1/redcap)
   * For 5 players add 1 redcap
 
 * **A9. Gatehouse Watchpost (Moderate 13)**
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (4)
-  * [Roy Flaxbeater](https://monster.pf2.tools/v/FMcPD3F8-roy-flaxbeater)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) ([image](../Creatures/advanced-redcap.png)) (4)
+  * [Roy Flaxbeater](https://monster.pf2.tools/v/FMcPD3F8-roy-flaxbeater) ([image](../Creatures/roy-flaxbeater.png))
   * **Treasure:** +1 striking scythe (1/redcap), [Vampiric Scythe](https://2e.aonprd.com/Equipment.aspx?ID=1287), +1 resilient leather armor, and a keyring, the chest is locked with a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30) and contains a Greater cold [Potion of Retaliation](https://2e.aonprd.com/Equipment.aspx?ID=721) a Greater [Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91), 200 gp of currency and gems, and 100 gp worth of silverware stolen from the abbey
   * For 5 players give all of the Advanced Redcaps the Elite adjustment and add a second Elixir of Life and 200 gp of currency to the chest.
 
@@ -78,7 +78,7 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
     * Picking or otherwise forcing the door subjects everyone within 30 feet to a [Maze](https://2e.aonprd.com/Spells.aspx?ID=187) spell (DC 34). Each round creatures in the maze must make a DC34 Will save or increase their stupified condition by 1. If they become stupified 4 they can no longer help to escape the maze.
 
 * **A11. Charred Dormitory (Low 13)**
-  * [Larla Clankypump](https://monster.pf2.tools/v/X6OMQ8fr-larla-clankypump)
+  * [Larla Clankypump](https://monster.pf2.tools/v/X6OMQ8fr-larla-clankypump) ([image](../Creatures/larla-clankypump.png))
   * Elite [Stone Mauler](https://2e.aonprd.com/Monsters.aspx?ID=185) (2)
   * **Treasure:** Greater [Persona Mask](https://2e.aonprd.com/Equipment.aspx?ID=451), +2 striking scythe, +2 striking composite shortbow, +1 resilient leather armor, [Potion of Flying](https://2e.aonprd.com/Equipment.aspx?ID=189) (2)
   * For 5 players give Larla the Elite adjustment
@@ -86,28 +86,28 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 * **A13. Pantry (Trivial 13)**
   * **Hazard:** Haggis Trap
     * Stealth DC 33, Disarm Occult or Religion DC 33
-    * Summons an [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) (Level 13) for 1 minute.
+    * Summons an [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) ([image](../Creatures/advanced-nyogoth.png)) (Level 13) for 1 minute.
 
 * **A14. Destroyed Cathedral (Moderate 13)**
-  * [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) (Level 13) (2)
+  * [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) (Level 13) ([image](../Creatures/advanced-nyogoth.png)) (2)
   * For 5 players give 1 of the Nyogoths the Elite adjustment.
 
 * **A15. Refectory (Low 13)**
-  * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) (3)
-  * [Kob-Kog](https://monster.pf2.tools/v/rhfoOdSS-kob-kog)
+  * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) ([image](../Creatures/advanced-ettin.png)) (3)
+  * [Kob-Kog](https://monster.pf2.tools/v/rhfoOdSS-kob-kog) ([image](../Creatures/kob-kog.png))
   * **Treasure:** +2 Striking Battle Axe, +2 Striking Pick, +1 Resilient Breastplate, +1 striking flail(1/ettin), +1 striking battle axe (1/ettin)
   * For 5 players give the Advanced Ettins the elite adjustment.
 
 * **A16. Guardroom (Trivial 13)**
   * **Hazard:** Greater Glyph of Warding (See **A3**) on the headdress
-  * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap)
+  * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap) ([image](../Hazards/poisoned-pit-trap.png))
   * **Treasure:** Greater [Crown of the Fire Eater](https://2e.aonprd.com/Equipment.aspx?ID=1435)
 
 * **A19. Abbot's Chambers**
   * **Treasure:** Rare edition of a [Scholarly Journal](https://2e.aonprd.com/Equipment.aspx?ID=64) on the Abyss, demons and qlippoth worth 75gp, book of poems (with doomsday lock combination)
 
 * **A20. Windsong Council Chambers (Moderate 13)**
-  * [Luthask](https://monster.pf2.tools/v/s4pRw9tQ)
+  * [Luthask](https://monster.pf2.tools/v/s4pRw9tQ) ([image](../Creatures/luthask.png))
   * Elite [Mummy Pharaoh](https://2e.aonprd.com/Monsters.aspx?ID=305) (4)
   * **Treasure:** +2 Greater Striking [Greater Fearsome](https://2e.aonprd.com/Equipment.aspx?ID=731) Butchering Axe, +1 resilient full plate, +1 striking longspear (4)
   * For 5 add 1 more mummy and add a [greater oil of unlife](https://2e.aonprd.com/Equipment.aspx?ID=718)
@@ -117,9 +117,9 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
   * For 5 players instead advance the Vrocks to 13th level.
 
 * **A22. Baths (Severe 13)**
-  * [Sufestra](https://monster.pf2.tools/v/pHSQYDxv)
-  * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) (1)
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (2)
+  * [Sufestra](https://monster.pf2.tools/v/pHSQYDxv)([image](../Creatures/sufestra.png))
+  * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) ([image](../Creatures/advanced-hill-giant.png)) (1)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) ([image](../Creatures/advanced-redcap.png)) (2)
   * **Treasure:** [Ring of Lies](https://2e.aonprd.com/Equipment.aspx?ID=456), +2 Greater Striking Shortsword, +2 Greater Resilient Chainmail, Oil of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (2), Doomsday Key, Scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105), 500gp in assorted jewelry, +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking scythe (1/redcap)
   * For 5 players add 1 more Hill Giant and 1 more Redcap
 
@@ -134,7 +134,7 @@ _Note: Since some groups may or may not have Koriah with them the difficulty of 
 _Since each of the encounters in this area has the potential to spill into each other I made the threat levels of each room low. For the most part the creatures on this floor are intelligent and should try to gang up on the party and harrass them if they try to rest here._
 
 * **B1. Spirits Cellar (Low 14)**
-  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (6)
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) ([image](../Creatures/pallid-path-cultist.png)) (6)
   * The broken equipment in this room is a barrier to both movement and attacks. Treat the entire room as difficult terrain, and creatures have cover from anything not adjacent to themselves.
   * The Cultists will flee to **B4** if half of their number are defeated.
   * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
@@ -146,7 +146,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * If lured to **B1** the Clockwork Assassin treats every creature as hostile. The cultists are aware of its capabilities and will try to stay away from it so that it will attack the pathfinders instead. B1 and B2 together are a Moderate encounter.
 
 * **B4. Litany Room**
-  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (6)
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) ([image](../Creatures/pallid-path-cultist.png)) (6)
   * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
   * For 5 players add 2 more cultists
 
@@ -154,7 +154,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * DC20 Religion to recognize the globe as a depection of Groetus. A critical success gives more information.
 
 * **B6. Ice Room (Low 14)**
-  * [Advanced Ice Golems](http://monster.pf2.tools/v/Br10WCxb-advanced-ice-golem) (Level 10)
+  * [Advanced Ice Golems](http://monster.pf2.tools/v/Br10WCxb-advanced-ice-golem) ([image](../Creatures/advanced-ice-golem.png)) (Level 10)
   * The door to this room requires a DC30 Athletics check to open. On a success the door opens, but the character must immediately roll for the slippery ground. On a critical success the character opens the door without issue.
   * The extreme cold deals 5d6 cold damage (basic fortitude save) each round.
   * The ground is slippery; after each stride make a DC30 acrobatics check, moving at half speed or less gives a +4 to this roll
@@ -169,7 +169,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * **Treasure:** [Ring of Maniacal Devices](https://2e.aonprd.com/Equipment.aspx?ID=457), [Traveler's Any-Tool](https://2e.aonprd.com/Equipment.aspx?ID=268), Golem crafting notes worth 1000gp.
 
 * **B10. Common Room (Trivial 14)**
-  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (4)
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) ([image](../Creatures/pallid-path-cultist.png)) (4)
   * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
   * For 5 players add 1 more cultist
 
@@ -222,13 +222,13 @@ _Since each of the encounters in this area has the potential to spill into each 
   * **Hazard:** Malfunctioning Portal, Arcana, Religion, Occult or Nature DC38(expert) to detect, DC42(master) to disable. 10d6 sonic and 10d6 force damage (DC38 basic reflex) targeting everyone in the room. Deafens for 1 hour on a failure and permanently on a critical failure. 
 
 * **D2. Underground Library (Trivial 15)**
-  * [Ricle Peaks](https://monster.pf2.tools/v/3PH1FrmW-ricle-peaks) (Advanced [Bogeyman](https://2e.aonprd.com/Monsters.aspx?ID=509) (Level 15))
+  * [Ricle Peaks](https://monster.pf2.tools/v/3PH1FrmW-ricle-peaks) (Advanced [Bogeyman](https://2e.aonprd.com/Monsters.aspx?ID=509) (Level 15)) ([image](../Creatures/ricle-peaks.png))
     * In addition to statistic advancement, increase phantasmal killer's spell level to 6 and add [Phantasmal Calamity](https://2e.aonprd.com/Spells.aspx?ID=218) to his spell list. 
   * **Treasure:** Reference books that give a +3 item bonus when researching Thassilon, Azlant, or the worship of Groetus. Complete collection is 50 bulk, but worth 500gp. DC40 (master) to find the secret door to the north. The room contains a scroll of [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258) (6th), and [All is One, One is All](https://2e.aonprd.com/Spells.aspx?ID=815), Commune ritual formula and components for 2 castings.
   * For 5 pleyrs advance Ricle Peaks to level 16 and add a scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105) to the hidden room.
 
 * **D3. Cultist Cells (Low 15)**
-  * [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) (4)
+  * [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) ([image](../Creatures/advanced-wrathspawn.png)) (4)
   * For 5 players give the Wrathspawn the elite adjustment.
 
 * **D4. Ancient Lounge (Low 15)**
@@ -240,7 +240,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * For 5 players add a 3rd Animate Dream.
 
 * **D5. High Priest's Chambers (Low 15)**
-  * [Zolerim](https://monster.pf2.tools/v/ZLvmt0R7-zolerim)
+  * [Zolerim](https://monster.pf2.tools/v/ZLvmt0R7-zolerim) ([image](../Creatures/zolerim.png))
   * **Treasure:** +2 greater striking dagger, +2 resilient explorer's clothing, [Major Staff of Evocation](https://2e.aonprd.com/Equipment.aspx?ID=355), misc treasure worth 375gp, *My Lady's Fire* contains all common fire spells + 2d4 uncommon/rare ones, worth 2500gp, [Major Firestarter Pellets](https://2e.aonprd.com/Equipment.aspx?ID=1005)
   * For 5 players add a [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=754) (6th)
 
@@ -262,7 +262,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * **Treasure:** Lamp of blue crystal worth 350gp
 
 * **D11. Gathuspia's Den (Moderate 15)**
-  * [Gathuspia](https://monster.pf2.tools/v/zFcVfFV0)
+  * [Gathuspia](https://monster.pf2.tools/v/zFcVfFV0) ([image](../Creatures/gathuspia.png))
   * **Treasure:** +2 Greater Striking Unholy Dagger
 
 * **D12. Sacred Fire (Moderate 15)**
@@ -325,7 +325,7 @@ _Since each of the encounters in this area has the potential to spill into each 
     * **8th** Harm (x7), [Devour Life](https://2e.aonprd.com/Spells.aspx?ID=657), [Divine Armageddon](https://2e.aonprd.com/Spells.aspx?ID=896), [Spiritual Epidemic](https://2e.aonprd.com/Spells.aspx?ID=304)
     * **7th** Replace Harm (x7) with [Finger of Death](https://2e.aonprd.com/Spells.aspx?ID=116)
   * **Development:** The PCs can answer each of Kandamereus's questions with a DC35 Diplomacy or DC40 Bluff check. With 4 or more successess (2 successes for crit success, -1 success for crit fail) Kandamereus joins the party.
-  * **Treasure:** [Doomsday Staff](https://template.pf2.tools/v/mtjpqPvX-doomsday-staff), Greater [Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256) (function as a negative effect for him)
+  * **Treasure:** [Doomsday Staff](https://template.pf2.tools/v/mtjpqPvX-doomsday-staff) ([image](../Items/doomsday-staff.png)), Greater [Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256) (function as a negative effect for him)
   If he survives Kandamereus gives the party his Doomsday Staff and can teach the following uncommon spells: [Tongues](https://2e.aonprd.com/Spells.aspx?ID=340), [Return to Essence](https://2e.aonprd.com/Spells.aspx?ID=1087) and [Devour Life](https://2e.aonprd.com/Spells.aspx?ID=657)
   * **Hazard:** Labyrinth Without Walls Trap (See **A10**)
 
@@ -334,12 +334,12 @@ _Since each of the encounters in this area has the potential to spill into each 
 
 * **E13. Temple of Doomsday (Extreme 15)**
   * Elite [Augnagar](https://2e.aonprd.com/Monsters.aspx?ID=776)
-  * Weak [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) (4)
-  * Weak [Ardathanatus](https://monster.pf2.tools/v/s0l41Ptb-ardathanatus)
+  * Weak [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) ([image](../Creatures/advanced-wrathspawn.png)) (4)
+  * Weak [Ardathanatus](https://monster.pf2.tools/v/s0l41Ptb-ardathanatus) ([image](../Creatures/ardathanatus.png))
   * *Note, if the party has both Koriah and Kandamereus with them this fight might actually become too easy since there is effectively a 6 player party. If your players want a more challenging fight you may want to replace the Augnagar with a Weak [Thulgant](https://2e.aonprd.com/Monsters.aspx?ID=777) as otherwise this can be a fairly easy final boss encounter.*
   * **Hazard:** Tentacle +25, 2d8+10 bludgeoning + grab, athletics +25. Use Ardathanatus' initiative for simplicity. For grabbed creatures constrict 5d8, DC35 and move 5 feet towards the portal on a failure, 10 feet on a critical failure. Unconscious creatures are pulled twice as far. Any creature pulled into the portal is driven insane/ripped apart by Yamasoth and is effectively lost forever.
   * **Development:** At the beginning of combat Ardathanatus uses 1 of his actions to continue the ritual and the other two to cast defensive or buffing spells. During this time the hazard attacks 1 of the two 10 foot wide sections outside of the pillars in the room out to 60 feet from the portal (10 feet from the door). All creatures in this room attempt to stay between the pillars to avoid this. If Ardathanatus is engaged in melee or takes significant damage he focuses on the intruders instead of the ritual. Once this happens the tentacles instead attack all creatures within 2 of the 4 10 foot wide spans in this room at random out to 60 feet from the portal. If Ardathanatus is incapacitated the doors in the room swing open for two rounds. Immediately, and on Ardathanatus' initiative each round every creature in the room is subject to a level 10 DC33 [Baleful Polymorph](https://2e.aonprd.com/Spells.aspx?ID=17) and the tentacles attack every creature within 60 feet of the door, although they do not try to grab or constrict any creature that has been Baleful Polymophed. At the end of the second round any creatures that are grabbed and within 15 feet of portal is pulled through as the doors slam shut.
-  * **Treasure:** +3 Greater Striking Greater Fearsome Halberd, +2 resilient Full Plate (or dragon plate from **D12**), [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy), if Ardathanatus survives and is set down a better path he can teach the party the following uncommon spells: [Consecrate Flesh](https://2e.aonprd.com/Spells.aspx?ID=1110), [Blackfinger's Blades](https://2e.aonprd.com/Spells.aspx?ID=1076), [Dimensional Lock](https://2e.aonprd.com/Spells.aspx?ID=71), and [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)
+  * **Treasure:** +3 Greater Striking Greater Fearsome Halberd, +2 resilient Full Plate (or dragon plate from **D12**), [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy) ([image](../Items/shard-of-envy.png)), if Ardathanatus survives and is set down a better path he can teach the party the following uncommon spells: [Consecrate Flesh](https://2e.aonprd.com/Spells.aspx?ID=1110), [Blackfinger's Blades](https://2e.aonprd.com/Spells.aspx?ID=1076), [Dimensional Lock](https://2e.aonprd.com/Spells.aspx?ID=71), and [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)
   * For 5 players remove the weak adjustment from Ardithanatus and the Wrathspawn
 
 ## Side Quests
@@ -359,8 +359,8 @@ _Since each of the encounters in this area has the potential to spill into each 
 
 ## Shards
 
-* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
-* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
-* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust)
-* [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
-* [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy)
+* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
+* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
+* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust) ([image](../Items/shard-of-lust.png))
+* [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony) ([image](../Items/shard-of-gluttony.png))
+* [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy) ([image](../Items/shard-of-envy.png))
