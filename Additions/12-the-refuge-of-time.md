@@ -60,7 +60,7 @@ _Since we established Ollysta Zadrian as the PCs point of contact in Kaer Maga w
         * Anyone who receives a boon from the hazard gains a +1 status bonus to attack and damage rolls against Emketta.
     * **Treasure:** +1 Striking [Conducting](http://2e.aonprd.com/Equipment.aspx?ID=919) Whip, [Quill of Passage](http://2e.aonprd.com/Equipment.aspx?ID=881)
 * **5. Chapel (Moderate 11)**
-    * [Emketta](https://monster.pf2.tools/v/rXOCxFRT)
+    * [Emketta](https://monster.pf2.tools/v/rXOCxFRT) ([image](../Creatures/emketta.png))
     * “Opponents of the faith are not permitted within this sacred site. Sheathe your weapons and prove your obedience or meet your fate!”
     * Like the deva above, players can talk their way past Emketta by convincing her they are followers of Lissala. Each player must make a DC32 Diplomacy or Deception check to do so and players who don’t display some sort of proof of their allegiance to Lissala (Lissalan cultist robes, a sihedron brand, etc.) are at a -2 circumstance penalty, and players who do not speak to her in Thassilonian are at a -2 circumstance penalty.  These penalties are cumulative.
         * Results
@@ -70,6 +70,6 @@ _Since we established Ollysta Zadrian as the PCs point of contact in Kaer Maga w
     * **Treasure:** +1 Resilient Full Plate (see [graveknight’s curse](http://2e.aonprd.com/Monsters.aspx?ID=244)), +2 Striking [Frost](http://2e.aonprd.com/Equipment.aspx?ID=296) Greatsword
 * **6. Inner Sanctum (Severe 11)**
     * Naroth Balam (Use Elite [Tempest-Sun Mage](http://2e.aonprd.com/NPCs.aspx?ID=972))
-    * [Slothspawn Cultist](https://monster.pf2.tools/v/mwX3JRF2-slothspawn-cultist) (4)
+    * [Slothspawn Cultist](https://monster.pf2.tools/v/mwX3JRF2-slothspawn-cultist) ([image](../Creatures/slothspawn-cultist.png)) (4)
     * **Treasure:** Greater [Staff of Conjuration](http://2e.aonprd.com/Equipment.aspx?ID=352), Greater [Choker of Elocution](http://2e.aonprd.com/Equipment.aspx?ID=422) (Thassilonian, Azlanti, and Aklo) emblazoned with a sihedron rune, +1 Striking longspear (4), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Flying](http://2e.aonprd.com/Equipment.aspx?ID=189), [Planar Binding](https://2e.aonprd.com/Rituals.aspx?ID=17) ritual
         * _Note: The Greater Choker of Elocution is meant to replace the ioun stone in the original version.  Krune’s Runelord’s Dominion ability in The Waking Rune adventure will affect this item._

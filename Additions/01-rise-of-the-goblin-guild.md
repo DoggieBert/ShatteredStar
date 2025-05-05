@@ -50,7 +50,7 @@ If any players have actions left when they are in the same square as Ekkie they 
     * [Goblin Warrior](https://2e.aonprd.com/Monsters.aspx?ID=232) (3)
         * Replace shortbow with **Ranged** Alchemist’s Fire +6 (range increment 30 feet, splash) **Damage** 1d8 fire plus 1 fire splash
         * Add 2 alchemist’s fire to inventory
-    * [Yarak](https://monster.pf2.tools/v/Vx0LRw0Q)
+    * [Yarak](https://monster.pf2.tools/v/Vx0LRw0Q) ([image](../Creatures/yarak.png))
     * Treasure: [Alchemist’s Fire (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=75), [Cat’s Eye Elixir](https://2e.aonprd.com/Equipment.aspx?ID=85)
 * **A5 Flushing Compartment (Low)**
     * [Goblin Warrior](https://2e.aonprd.com/Monsters.aspx?ID=232) (2)
@@ -61,5 +61,5 @@ If any players have actions left when they are in the same square as Ekkie they 
 * **A8 Audience Chamber (Moderate)**
     * [Goblin Warrior](https://2e.aonprd.com/Monsters.aspx?ID=232) (2)
     * [Bugbear Tormentor](https://2e.aonprd.com/Monsters.aspx?ID=59)
-    * [Tanglefoot Morass](https://template.pf2.tools/v/Y3dl1LJJ)
+    * [Tanglefoot Morass](https://template.pf2.tools/v/Y3dl1LJJ) ([image](../Hazards/tanglefoot-morass.png))
     * Treasure: Chain Shirt, Dagger, +1 Horsechopper

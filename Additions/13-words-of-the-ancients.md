@@ -11,7 +11,7 @@ _Since we established Ollysta Zadrian as the PCs point of contact in Kaer Maga w
 To cast a teleportation spell in this area a caster must make a DC32 counteract check or the spell is lost. When casting a summoning spell a random creature is pulled from one of the towers as described.
 
 * **A2. The Jaded Sentinel (Low 12)**
-    * [Zonaladin](https://monster.pf2.tools/v/bmY5DWX7)
+    * [Zonaladin](https://monster.pf2.tools/v/bmY5DWX7) ([image](../Creatures/zonaladin.png))
         * Zonaladin is enfeebled 2, drained 2 and fatigued. He only has 210 hp remaining and has cast all of his 5th and 6th level spells except for tongues and teleport. This reduces him to a low threat encounter.
     * To convince Zonaladin to let them pass the party may attempt the listed tasks. The DCs are as follows: Easy 28, Moderate 30, Hard 32, Impossible 35. In addition to the normal success and fail effects, a critical failure increases suspicion by 2 points, and a critical success decreases suspicion by a point and convinces Zonaladin to give the party a reward (listed below).
     * **Treasure:** [Greater Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256), Scroll of [Divine Wrath](https://2e.aonprd.com/Spells.aspx?ID=86) (5th) If Zonaladin is defeated and his lair searched he also has 12 emeralds worth 50gp each.
@@ -43,7 +43,7 @@ To cast a teleportation spell in this area a caster must make a DC32 counteract 
     * **Treasure:** Greater [Doubling Rings](https://2e.aonprd.com/Equipment.aspx?ID=432), 200gp in emeralds, 300gp in diamonds, 300gp
     * For 5 players add a Greater [Thunderbird Tuft](https://2e.aonprd.com/Equipment.aspx?ID=1011)
 * **C4. The True Plates**
-    * **Treasure:** [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service), Rune Plates
+    * **Treasure:** [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service) ([image](../Items/sihedron-brand-service.png)), Rune Plates
 
 ## Aftermath
 

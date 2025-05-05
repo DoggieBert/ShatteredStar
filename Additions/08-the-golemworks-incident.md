@@ -6,7 +6,7 @@ _This conversion is meant to be used as an adventure for characters in the Shatt
 
 ### A. Terror in the Greenhouse (Moderate 9)
 
-* [Angelic Guardians](https://monster.pf2.tools/v/46wbtcTd-angelic-guardian) (5)
+* [Angelic Guardians](https://monster.pf2.tools/v/46wbtcTd-angelic-guardian) ([image](../Creatures/angelic-guardian.png)) (5)
 * **Hazard:** Flaming Debris.  DC11 flat check that a square catches on fire that was subject to a flame attack.  
     * At the end of each round there is a DC11 flat check that an adjacent square to an already burning square catches fire.
     * At the beginning of each round a falling branch targets each adjacent square of 1 random burning square.  This deals 6d6 bludgeoning damage with a DC 24 basic reflex save.  On a failure a creature also takes 2d6 persistent fire damage. Anyone moving through a burning square also needs to make the reflex save to avoid catching fire.
@@ -15,10 +15,10 @@ _This conversion is meant to be used as an adventure for characters in the Shatt
 ### B. The Golemworks
 
 * **B1. Chrysalis Black’s Office (Moderate 9)**
-    * [Restraining Chair](https://monster.pf2.tools/v/XXWOcC4y) (5)
+    * [Restraining Chair](https://monster.pf2.tools/v/XXWOcC4y) ([image](../Creatures/restraining-chair.png)) (5)
     * Earthmaw (Use [Stone Mauler](http://2e.aonprd.com/Monsters.aspx?ID=185))
     * Elite [Wood Golem](http://2e.aonprd.com/Monsters.aspx?ID=684)
-    * [Chrysalis Black’s Simulacrum](https://monster.pf2.tools/v/70BB2XWY)
+    * [Chrysalis Black’s Simulacrum](https://monster.pf2.tools/v/70BB2XWY) ([image](../Creatures/chrysalis-blacks-sumulacrum.png))
     * **Treasure:** +1 Crossbow, +1 Staff, books worth 300 sp, DC20 Perception to find the bronze agent badge.
 * **B2. Drafting Room**
     * **Treasure:** DC23 to find a wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2)

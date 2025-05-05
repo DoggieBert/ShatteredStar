@@ -114,7 +114,7 @@
         * Each has taken 40 damage when the party arrives.
     * Weak Advanced [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220) (Level 12) (4)
         * These hill giant concubines don't have weapons, but can pick them up off of fallen giants, or can fight with fists or rocks.
-    * **Treasure:** [Shard of Wrath](https://template.pf2.tools/v/0TXF49Hb-shard-of-wrath), [Belt of Regeneration](https://2e.aonprd.com/Equipment.aspx?ID=399), +2 striking greatsword, Major [Staff of Final Rest](https://2e.aonprd.com/Equipment.aspx?ID=1285), [Engulfing Snare](https://2e.aonprd.com/Equipment.aspx?ID=702) (2), [Dispelling Sliver](https://2e.aonprd.com/Equipment.aspx?ID=205), [Stormbreaker Fulu](https://2e.aonprd.com/Equipment.aspx?ID=984), 5000 gp of misc treasure, a book of esoteric healing techniques which can be used to learn the following uncommon/rare feats: [Crystal Healing](https://2e.aonprd.com/Feats.aspx?ID=3773), [Medical Researcher](https://2e.aonprd.com/Feats.aspx?ID=2170), [Chromotherapy](https://2e.aonprd.com/Feats.aspx?ID=3772), and [Paragon Battle Medicine](https://2e.aonprd.com/Feats.aspx?ID=2171)
+    * **Treasure:** [Shard of Wrath](https://template.pf2.tools/v/0TXF49Hb-shard-of-wrath) ([image](../Items/shard-of-wrath.png)), [Belt of Regeneration](https://2e.aonprd.com/Equipment.aspx?ID=399), +2 striking greatsword, Major [Staff of Final Rest](https://2e.aonprd.com/Equipment.aspx?ID=1285), [Engulfing Snare](https://2e.aonprd.com/Equipment.aspx?ID=702) (2), [Dispelling Sliver](https://2e.aonprd.com/Equipment.aspx?ID=205), [Stormbreaker Fulu](https://2e.aonprd.com/Equipment.aspx?ID=984), 5000 gp of misc treasure, a book of esoteric healing techniques which can be used to learn the following uncommon/rare feats: [Crystal Healing](https://2e.aonprd.com/Feats.aspx?ID=3773), [Medical Researcher](https://2e.aonprd.com/Feats.aspx?ID=2170), [Chromotherapy](https://2e.aonprd.com/Feats.aspx?ID=3772), and [Paragon Battle Medicine](https://2e.aonprd.com/Feats.aspx?ID=2171)
     * For 5 players give all of the giants (but not Jubbek) the elite adjustment. Also add 1000gp of misc treasure, an [Earthglide Cloak](https://2e.aonprd.com/Equipment.aspx?ID=727), and a [Truesight Potion](https://2e.aonprd.com/Equipment.aspx?ID=199)
     
 
@@ -208,7 +208,7 @@ The Curator (Use [Fluxwraith](https://2e.aonprd.com/Monsters.aspx?ID=1858))
         * Fight a [Veiled Master](https://2e.aonprd.com/Monsters.aspx?ID=5) in [Aquatic Combat](https://2e.aonprd.com/Rules.aspx?ID=467)
         * If the character critically fails the save give the Veiled Master the elite adjustment.
         * If defeated by the Veiled Master then the character is reduced to 0hp, is dying 1 and is stupified 2.
-    * **Treasure:** Horn worth 100gp, [Pearl of the Sirines](https://template.pf2.tools/v/4DS5Q4bM-pearl-of-the-sirines), [Mask of Underwater Action](https://template.pf2.tools/v/cwFf2Ymj-mask-of-underwater-action)
+    * **Treasure:** Horn worth 100gp, [Pearl of the Sirines](https://template.pf2.tools/v/4DS5Q4bM-pearl-of-the-sirines) ([image](../Items/pearl-of-the-sirines.png)), [Mask of Underwater Action](https://template.pf2.tools/v/cwFf2Ymj-mask-of-underwater-action) ([image](../Items/mask-of-underwater-action.png))
 
 * **C10. Chapel of the Crawling Chaos**
     * **Waking Nightmare:** The first to approach the alter sees the vision and must make a DC38 will save. 
@@ -260,7 +260,7 @@ The Curator (Use [Fluxwraith](https://2e.aonprd.com/Monsters.aspx?ID=1858))
     * For 5 players give the worms the elite adjustment.
 
 * **D9. The Deep Hunt (Moderate 17)**
-    * [Xaivanshee](https://monster.pf2.tools/v/ooS6qZWq)
+    * [Xaivanshee](https://monster.pf2.tools/v/ooS6qZWq) ([image](../Creatures/xaivanshee-rasivrein.png))
     * Hunt Mistress (2)
     * *Note: Xaivanshee is set to level 17 to be equivalent to the players if they ally with her. If the party decides to fight her here give her the elite adjustment.*
     * **Treasure:** +2 Greater Striking [Keen](https://2e.aonprd.com/Equipment.aspx?ID=300) Standard-grade [Mithril](https://2e.aonprd.com/Equipment.aspx?ID=377) Rapier, +2 Greater Striking [Speed](https://2e.aonprd.com/Equipment.aspx?ID=304) [Orichalcum](https://2e.aonprd.com/Equipment.aspx?ID=378) Rapier, (+2 striking raper, +2 striking repeating hand crossbow, shootist bandolier) * 1/Hunt Mistress
@@ -276,7 +276,7 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 * **Critical Failure** Frightened 1 until leaving the embassy
 
 * **E2. Shrine of the Faceless (Moderate 17)**
-    * [Flying Polyp](https://monster.pf2.tools/v/oLCVwBTJ)
+    * [Flying Polyp](https://monster.pf2.tools/v/oLCVwBTJ) ([image](../Creatures/flying-polyp.png))
     * **Hazard:** Winds of Madness
         * Perception DC 40 (master), Disable Occultism DC 35 (master)
         * **Trigger** Open the door from **E1**
@@ -286,7 +286,7 @@ Each hour spent in the embassy each creature must make a DC36 will save:
     * The secret door can be found with a DC37 (master) perception check
 
 * **E3. The Pit of the Silver Mist (Extreme 17)**
-    * [Bhole](https://monster.pf2.tools/v/RP0QplZ7)
+    * [Bhole](https://monster.pf2.tools/v/RP0QplZ7) ([image](../Creatures/bhole.png))
     * If the bhole's hp is reduced by half it will retreat into the fog for at least 10 minutes. If it's hp is reduced to 0 it will retreat into the fog for the remainder of the day.
     * **Development:** In order to travel through the mist a ritual must be performed on each character. First a dose of [abysium powder](https://2e.aonprd.com/Equipment.aspx?ID=1407) from **E5** must be strewn into the fountain and then a [nightmare](https://2e.aonprd.com/Spells.aspx?ID=208) or [plane shift](https://2e.aonprd.com/Spells.aspx?ID=222) spell must be cast on the fountain. A creature must then immerse itself in the fountain's water and then jump into the mist. If the spells are not available, the water from the fountain can instead be poured onto a creature from the [Cauldron of Nightmares](https://2e.aonprd.com/Equipment.aspx?ID=891) in **E9** to get the same effect. If Mesmalatu and the Abysium Reactor are both destroyed a character must only immerse themselves in the fountain water and jump into the mist.
 
@@ -320,7 +320,7 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 
 * **E9. Guiltspur Grand Hall (Severe 17)**
     * *Note: add piles of bones in the outer hall to the description. These are what the graveknight champions form from*
-    * [Mesmalatu](https://monster.pf2.tools/v/tV26FVj7)
+    * [Mesmalatu](https://monster.pf2.tools/v/tV26FVj7) ([image](../Creatures/mesmalatu.png))
     * [Graveknight Champion](https://2e.aonprd.com/Monsters.aspx?ID=1664) (2)
         * The Graveknight champions begin as strewn bones. They reform and roll initiative when Mesmalatu leaves torpor
     * **Hazard:** [Green Slime](https://2e.aonprd.com/Hazards.aspx?ID=40)
@@ -338,7 +338,7 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 *Note: Since altitude is not a normal hazard in pf2e there are no written ways to counter it that I could find. I allowed an Endure Elements (7th) to counter the effect of the altitude sickness (in addition to the severe cold)*
 
 * **F1. Temple Entrance (Low 18)**
-    * [Nightgaunt Troop](https://monster.pf2.tools/v/L84HFDbP-nightgaunt-troop) (2)
+    * [Nightgaunt Troop](https://monster.pf2.tools/v/L84HFDbP-nightgaunt-troop) ([image](../Creatures/nightgaunt-troop.png)) (2)
     * **Hazard:** **Severe Winds** At the beginning of each creature's turn they must make a DC35 Athletics check or be moved 10 feet in a random direction (20 feet on a critical failure). Creatures with a free hand can use a reaction to hold onto something solid (such as a statue) to gain a +4 circumstance bonus to their check and optionally make a Fortitude save instead of an Athletics check. Flying creatures must instead make a DC40 Maneuver in Flight check and the forced movement is doubled. Non-flying creatures that are large increase their degree of success by 1 on this check and huge or larger creatures are immune, but both are affected normally while flying. Tiny creatures reduce their degree of success by 1.
     * **Hazard:** The cliff edge can be climbed with a DC30 check. The winds impose an additional -4 circumstance penalty to climb checks. Creatures that fall off the edge of the cliff find themselves in **E3** and take damage as if they had fallen 200 feet.
 
@@ -373,15 +373,25 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 * **F10. The Cursed Dragon (Severe 18)**
     * Cadrilkasta (Advanced [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132) (Level 21))
         * Add the following level 9 spells: [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77), [Foresight](https://2e.aonprd.com/Spells.aspx?ID=127), [Summon Draconic Legion](https://2e.aonprd.com/Spells.aspx?ID=1008)
-        * Cadrilkasta may also use any abilities of the [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth), but also suffers from its curse.
+        * Cadrilkasta may also use any abilities of the [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth) ([image](../Items/shard-of-sloth.png)), but also suffers from its curse.
     * **Hazard:** The same severe winds and cliff edge exist here as in **F1**. Due to her size Cadrilkasta is immune to the severe winds unless flying.
-    * **Treasure:** +2 Greater Striking [Greater Flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) Spear, [Eye of Fortune](https://2e.aonprd.com/Equipment.aspx?ID=435), [Titan's Grasp](https://2e.aonprd.com/Equipment.aspx?ID=1082), [Major Energy Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=474), [Eye of Apprehension](https://2e.aonprd.com/Equipment.aspx?ID=209), [Lucky Rabbit's Foot](https://2e.aonprd.com/Equipment.aspx?ID=568), Scroll of [Miracle](https://2e.aonprd.com/Spells.aspx?ID=196), [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth), 10,000gp in coins and another 10,000 gp in misc treasure
+    * **Treasure:** +2 Greater Striking [Greater Flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) Spear, [Eye of Fortune](https://2e.aonprd.com/Equipment.aspx?ID=435), [Titan's Grasp](https://2e.aonprd.com/Equipment.aspx?ID=1082), [Major Energy Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=474), [Eye of Apprehension](https://2e.aonprd.com/Equipment.aspx?ID=209), [Lucky Rabbit's Foot](https://2e.aonprd.com/Equipment.aspx?ID=568), Scroll of [Miracle](https://2e.aonprd.com/Spells.aspx?ID=196), [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth) ([image](../Items/shard-of-sloth.png)), 10,000gp in coins and another 10,000 gp in misc treasure
     * **Development:** If Xaivanshee is with the party she immediately attempts to grab the Shard of Sloth once Cadrilkasta has been defeated. If she does so she says a quick prayer and then slits her own throat, killing herself. Give the party 10 minutes before she rises as a vampire (see **F10a** below)
     * For 5 players add an Elite [Cornugon](https://2e.aonprd.com/Monsters.aspx?ID=611) named Xavrax whom Cadrilkasta has bound to serve as commander of her legions. Xavrax has been stuck doing menial tasks for the slothful Cadrilkasta and relishes any chance for combat. Add 5000gp, a [Dispelling Sliver](https://2e.aonprd.com/Equipment.aspx?ID=205) and a [Greater Floating Shield](https://2e.aonprd.com/Equipment.aspx?ID=319) to the treasure.
 
 * **F10a. Vampiric Xaivanshee (Severe 18)**
     * *After Xiavanshee kills herself with the Shard of Sloth each of her Hunt Mistresses begins a prayer to Zura over her body, not realizing it will lead to their own demise. After 10 minutes the Hunt Mistresses let out a scream as their blood is drained from their body into Xiavanshee. Xiavanshee rises as a true vampire and each of the Hunt Mistresses is instantly transformed into a Vampire Spawn.*
-    * [Vampire Xiavanshee](https://monster.pf2.tools/v/lDclC4p1)
+    * [Vampire Xiavanshee](https://monster.pf2.tools/v/lDclC4p1) ([image](../Creatures/vampire-xaivanshee-rasivrein.png))
     * Advanced [Vampire Guardian](https://2e.aonprd.com/Monsters.aspx?ID=2149) (Level 16) (3)
     * **Treasure:** Equipment from Xiavanshee & 3 Hunt Mistresses (see **D9**)
     * For 5 players advance the Vampire Guardians to level 17
+
+## Shards
+
+* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
+* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
+* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust) ([image](../Items/shard-of-lust.png))
+* [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony) ([image](../Items/shard-of-gluttony.png))
+* [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy) ([image](../Items/shard-of-envy.png))
+* [Shard of Wrath](https://template.pf2.tools/v/0TXF49Hb-shard-of-wrath) ([image](../Items/shard-of-wrath.png))
+* [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth) ([image](../Items/shard-of-sloth.png))

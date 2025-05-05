@@ -1,6 +1,6 @@
 # PFS 4-10 Feast of Sigils
 
-_This conversion is meant to be used as an adventure for characters in the Shattered Star adventure path.  It is targeted at a party of 5 level 10 characters. _
+_This conversion is meant to be used as an adventure for characters in the Shattered Star adventure path.  It is targeted at a party of 5 level 10 characters._
 
 ## Getting Started
 

@@ -7,7 +7,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 ## Level 5
 
-#### [Addition 6: Dawn of the Scarlet Sun](../Additions/6-dawn-of-the-scarlet-sun.md)
+#### [Addition 6: Dawn of the Scarlet Sun](../Additions/06-dawn-of-the-scarlet-sun.md)
 
 _This Free RPG Day adventure ties into the events in Curse of the Lady’s Light and provides some foreshadowing of what is to come.  Plus it’s free!_<br>
 **Treasure:** 175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)
@@ -16,7 +16,7 @@ _This Free RPG Day adventure ties into the events in Curse of the Lady’s Light
 
 **Treasure:** Sheila gives the party a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
 
-#### [Addition 7: Curse of the Lady’s Light Web Supplement](../Additions/7-web-supplement.md)
+#### [Addition 7: Curse of the Lady’s Light Web Supplement](../Additions/07-web-supplement.md)
 
 _This was originally supposed to be Part One of the adventure, but it got cut for space.  Fortunately, Paizo gave it back to us as a free web supplement._<br>
 **Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?ID=481), +1 dagger
@@ -63,7 +63,7 @@ _Note, the Troglodytes speak Draconic unless spoken to in another language they 
     * Troglodytes (4)
     * For 5 players add 1 more Troglodytes
 * **D6. Shrine to Zevgavizeb (Moderate 6)**
-    * [Uggilo](https://monster.pf2.tools/v/L8yoPdmY)
+    * [Uggilo](https://monster.pf2.tools/v/L8yoPdmY) ([image](../Creatures/uggilo.png))
     * Elite [crocodile](https://2e.aonprd.com/Monsters.aspx?ID=84)
     *  **Treasure:** [Demon Mask](https://2e.aonprd.com/Equipment.aspx?ID=430), unholy symbol of Zevgavizeb (15gp) + with a DC25 perception to find his cache 12x pearls (10gp each), [Rope of Climbing (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=743), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91), [Mistform Elixir (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=96)
     * For 5 players add Troglodytes (2) and add 2 [Spellstrike ammunition (Level 1)](https://2e.aonprd.com/Equipment.aspx?ID=167)
@@ -84,7 +84,7 @@ _Note, the Troglodytes speak Draconic unless spoken to in another language they 
 
 _Note, the pyrohydra can be quite difficult if the players don’t have any reliable way to cauterize the neck stumps.  I recommend having them find the acid flasks and frost vials and perhaps the wand if they search through the treasure before the hydra has a chance to wake and attack._
 
-* Gegganallag (Use [Pyrohydra](http://monster.pf2.tools/v/HwBDqSM2-pyrohydra))
+* Gegganallag (Use [Pyrohydra](http://monster.pf2.tools/v/HwBDqSM2-pyrohydra)) ([image](../Creatures/pyrohydra.png))
 * For 5 players increase the hydra’s hp by 20 and begin with 1 extra head.
 * **Treasure:** [Ventriloquist’s Ring](https://2e.aonprd.com/Equipment.aspx?ID=468), [Wand of Noisome Acid (level 2)](https://2e.aonprd.com/Equipment.aspx?ID=794), jewelry worth 30gp, 240sp, 123gp, 9pp, 3x [acid flask (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), 3x [frost vials (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=77)
 
@@ -93,7 +93,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **F1. Inhabited Hut (Trivial 6)**
     * Boggard (Use [Boggard Warrior](https://2e.aonprd.com/Monsters.aspx?ID=55))
 * **F3. Bogwid Pit (Trivial 6)**
-    * [Bogwid](http://monster.pf2.tools/v/pQ1pzhdC-bogwid) (2)
+    * [Bogwid](http://monster.pf2.tools/v/pQ1pzhdC-bogwid) ([image](../Creatures/bogwid.png)) (2)
     * For 5 players add 1 bogwid.
 * **F4. Chieftain’s Hut (Low 6)**
     * Advanced Boggards (4) (Use Elite [Boggard Warrior](https://2e.aonprd.com/Monsters.aspx?ID=55))
@@ -102,7 +102,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * Bogwiggles (4) (Use [Giant Frog](https://2e.aonprd.com/Monsters.aspx?ID=675))
         * Add Terrifying Croak at DC16.
 * **F6. Brood Mother’s Hut (Low 6)**
-    * [Mama Beballa](https://monster.pf2.tools/v/O4Cjd7rB)
+    * [Mama Beballa](https://monster.pf2.tools/v/O4Cjd7rB) ([image](../Creatures/mama-beballa.png))
     * **Treasure:** +1 Composite Longbow, [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)
     * For 5 players give Mama Beballa the Elite adjustment and add [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=186) to the treasure.
 * **F7. Filth Farm**
@@ -114,7 +114,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **G1. Outer Shrine (Trivial 6)**
     * Boggard (4)
 * **G2. The Sulking Chieftain (Trivial 6)**
-    * [Daghop](https://monster.pf2.tools/v/oQpyLZV9)
+    * [Daghop](https://monster.pf2.tools/v/oQpyLZV9) ([image](../Creatures/daghop.png))
     * **Treasure:** +1 [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) Striking Mace
     * For 5 players add 2 [Giant Frog](https://2e.aonprd.com/Monsters.aspx?ID=675) and a [Grim Trophy](https://2e.aonprd.com/Equipment.aspx?ID=216)
 
@@ -125,12 +125,12 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 #### I. Solifugid Nest (Low 6)
 
 * DC30 Arcana or Occult to recognize the statue is for a binding ritual.  DC20 religion to recognize the occupant was a succubus.
-* [Albino Cave Solifugid](https://monster.pf2.tools/v/q3RJzywo) (3) 
+* [Albino Cave Solifugid](https://monster.pf2.tools/v/q3RJzywo) ([image](../Creatures/albino-cave-solifugid.png)) (3) 
 * For 5 players add 1 more Solifugid
 
 #### J. Entrance Chamber (Moderate 6)
 
-* [Caryatid Column](https://monster.pf2.tools/v/YBO2127m) (4)
+* [Caryatid Column](https://monster.pf2.tools/v/YBO2127m) ([image](../Creatures/caryatid-column.png)) (4)
 * For 5 players add 1 column
 
 ## Level 7
@@ -169,18 +169,18 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * DC20 Perception to notice the signature.
 * **K9. A Spurned Constort (Low 7)**
     * [Lock (average)](https://2e.aonprd.com/Equipment.aspx?ID=30) on the gate.
-    * [Gnaeus Gnaru](https://monster.pf2.tools/v/RsoHot1h-gnaeus-gnaru)
+    * [Gnaeus Gnaru](https://monster.pf2.tools/v/RsoHot1h-gnaeus-gnaru) ([image](../Creatures/gnaeus-gnaru.png))
     * **Treasure:** +1 Striking Wounding Rapier
     * For 5 players Gnaeus is also equipped with 2 [Healing Potion (Moderate)](http://2e.aonprd.com/Equipment.aspx?ID=186) and Can use Battle Medicine on himself 1/day.  Add 1 Healing Potion (Moderate) to the treasure.
 * **K10. Pillared Hall (Low 7)**
-    * [Marble Sentinel](https://monster.pf2.tools/v/5v9Qh9Hp-marble-sentinel) (3)
+    * [Marble Sentinel](https://monster.pf2.tools/v/5v9Qh9Hp-marble-sentinel) ([image](../Creatures/marble-sentinel.png)) (3)
     * **Treasure:** A single wand of [Slow](https://2e.aonprd.com/Spells.aspx?ID=289) (3rd) can be scavenged from the sentinels.
     * For 5 players add 1 sentinel and a [Basilisk’s Eye](https://2e.aonprd.com/Equipment.aspx?ID=708).
 * **K11. Pit Trap (Trivial 7)**
     * [Spiky Pit](https://pf2easy.com/index.php?id=7480&name=spiky_pit)
     * _Note, this trap is really boring.  I recommend swapping it out with [Poisoned Dart Gallery](http://2e.aonprd.com/Hazards.aspx?ID=25).  This increases the threat level to Low 7._
 * **K12. Battle Site (Low 7)**
-    * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) (2)
+    * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) ([image](../Creatures/incubus.png)) (2)
     * **Treasure:** +1 Striking Scimitar (2)
     * For 5 players give the Incubi the elite adjustment
 * **K13. Chamber of the Gray Flame (Trivial 7)**
@@ -188,7 +188,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
         * **Success** Move normally
         * **Failure** Floor is considered difficult terrain
         * **Critical Failure** Fall prone
-    * [Advanced Cacodaemons](http://monster.pf2.tools/v/T9MV7WSS-advanced-cacodaemon) (4)
+    * [Advanced Cacodaemons](http://monster.pf2.tools/v/T9MV7WSS-advanced-cacodaemon) ([image](../Creatures/advanced-cacodaemon.png)) (4)
     * For 5 players add 1 Cacodaemon
 * **K14. Shrine of Supplication**
     * DC20 Perception to notice the wear
@@ -211,7 +211,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** Scrolls of [Confusion](https://2e.aonprd.com/Spells.aspx?ID=48), [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=104), and [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341) and _Dreams and Desires_ a [Scholarly Journal (Compendium)](https://2e.aonprd.com/Equipment.aspx?ID=64) about Enchantment magic.
 * **K21. Conjuration Lab (Severe 7)**
     * _There isn’t really any good replacement for the book in this room, so I’ve replaced it with another valuable item. You should add a crown to the description of the room._
-    * [Fiendish Seugathi](https://monster.pf2.tools/v/HQ4Lsozh)
+    * [Fiendish Seugathi](https://monster.pf2.tools/v/HQ4Lsozh) ([image](../Creatures/fiendish-seugathi.png))
     * **Hazard:** Each round after the Seugathi is summoned the portal remains open summoning a random Demon through.  
         * Roll 1d6:
             * 1-2: [Abrikandilu](http://2e.aonprd.com/Monsters.aspx?ID=499)
@@ -248,7 +248,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **L8. Corpses in Seawater (Trivial 8)**
     * Fuath Gremlins (2) (Use Elite [Pugwampi](http://2e.aonprd.com/Monsters.aspx?ID=246))
 * **L10. Whipping Post Platform (Low 8)**
-    * [Daefu](https://monster.pf2.tools/v/Vp2wcjch-daefu)
+    * [Daefu](https://monster.pf2.tools/v/Vp2wcjch-daefu) ([image](../Creatures/daefu.png))
     * Fuath Gremlins (4)
     * **Treasure:** [Gluttonous Spear](http://2e.aonprd.com/Equipment.aspx?ID=788)
     * For 5 players add the elite adjustment to Daefu
@@ -256,11 +256,11 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** [Healing Potion (Moderate)](http://2e.aonprd.com/Equipment.aspx?ID=186) (4), [Elemental Gem (Earth)](http://2e.aonprd.com/Equipment.aspx?ID=243), [Knapsack of Halflingkind](http://2e.aonprd.com/Equipment.aspx?ID=446), 100gp worth of gemstones
     * For 5 players add a Healing Potion (Moderate), a [Jade Bauble](http://2e.aonprd.com/Equipment.aspx?ID=222) and an additional 30gp worth of gemstones
 * **L13. Gray Maiden Quarters (Low 8)**
-    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) (6)
+    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) ([image](../Creatures/elite-gray-maiden-foot-soldier.png)) (6)
     * **Treasure:** +1 Longsword (1/maiden), Gray Maiden Plate (1/maiden)
     * For 5 players add 2 Gray Maidens
 * **L14. An Interrupted Bath (Trivial 8)**
-    * Nude [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) (6)
+    * Nude [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) ([image](../Creatures/elite-gray-maiden-foot-soldier.png)) (6)
         * These gray maidens are not wearing armor, thus they are -3 to AC, but have 25 feet movement speed.
     * **Treasure:** +1 Longsword (1/maiden), Gray Maiden Plate (1/maiden)
     * For 5 players add 1 Gray Maiden
@@ -277,17 +277,17 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * DC25 (Expert) Perception to find the secret door.
     * DC20 Religion to know about Nocticula.  DC20 Perception to notice the writing behind the orbs
     * Shadow Mastiff (3) (Use [Greater Shadow](https://2e.aonprd.com/Monsters.aspx?ID=363))
-    * **Treasure:** Golden Cup worth 40gp, [Incense Burner of Continual Smoke](https://template.pf2.tools/v/vxZxo4Tf-incense-burner-of-continual-smoke), +1 Explorer’s Clothing (Nocticulan cleric robes), unholy symbol of Nocticula worth 100gp
+    * **Treasure:** Golden Cup worth 40gp, [Incense Burner of Continual Smoke](https://template.pf2.tools/v/vxZxo4Tf-incense-burner-of-continual-smoke) ([image](../Items/incense-burner-of-continual-smoke.png), +1 Explorer’s Clothing (Nocticulan cleric robes), unholy symbol of Nocticula worth 100gp
     * For 5 players add 1 Shadow Mastiff and 1 scroll of [Heal](http://2e.aonprd.com/Spells.aspx?ID=148) (Level 4)
 * **L19. Opulent Chamber (Trivial 8)**
-    * Lustspawn (4) (Use [Advanced Lustspawn](https://monster.pf2.tools/v/dpb97Tq1-advanced-lustspawn))
+    * Lustspawn (4) (Use [Advanced Lustspawn](https://monster.pf2.tools/v/dpb97Tq1-advanced-lustspawn) ([image](../Creatures/advanced-lustspawn.png)))
     * **Treasure:** +1 guisarme (1/lustspawn)
     * For 5 players add 1 lustspawn
 * **L20. The Grand Ballroom (Moderate 8)**
     * DC25 Ancient Thassilon Lore to recognize Karzoug
     * **Hazard: **[Illusory Scene](http://2e.aonprd.com/Spells.aspx?ID=161) (DC28 to disbelieve).  Chanukrah appears to be Sorshen, while the lustspawn appear to be other guests. Each guest requires a separate will save to disbelieve.
-    * [Chanukrah](https://monster.pf2.tools/v/SSTDzCPH-chanukrah)
-    * [Advanced Lustspawn](https://monster.pf2.tools/v/dpb97Tq1-advanced-lustspawn) (2)
+    * [Chanukrah](https://monster.pf2.tools/v/SSTDzCPH-chanukrah) ([image](../Creatures/chanukrah.png))
+    * [Advanced Lustspawn](https://monster.pf2.tools/v/dpb97Tq1-advanced-lustspawn) ([image](../Creatures/advanced-lustspawn.png)) (2)
     * **Treasure:** +1 guisarme (1/lustspawn), +1 striking guisarme, [wand of crackling lightning](https://2e.aonprd.com/Equipment.aspx?ID=754) (3rd)
     * For 5 players add 2 more Lustspawn
 * **L21. Warded Antechamber**
@@ -295,11 +295,11 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **L22. Chamber of Correction (Low 8)**
     * DC28 (Expert) Perception to find the door to L24.
     * Quenelle Page (Use Elite [Captain of the Guard](http://2e.aonprd.com/NPCs.aspx?ID=937))
-    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) (3)
+    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) ([image](../Creatures/elite-gray-maiden-foot-soldier.png)) (3)
     * **Treasure:** +1 Longsword (1/maiden), Gray Maiden Plate (1/maiden)
     * For 5 players add 2 extra Gray Maidens
 * **L23. Barracks (Trivial 8)**
-    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) (6)
+    * [Gray Maidens](https://monster.pf2.tools/v/8yXrh3Vx-elite-gray-maiden-foot-soldier) ([image](../Creatures/elite-gray-maiden-foot-soldier.png)) (6)
         * These gray maidens are not wearing armor, thus they are -2 to AC, but have 25 feet movement speed.
     * **Treasure:** +1 Longsword (1/maiden), Gray Maiden Plate (1/maiden)
     * For 5 players add 2 extra Gray Maidens
@@ -316,12 +316,12 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * Elementals (4) ([Use Living Whirlwind](http://2e.aonprd.com/Monsters.aspx?ID=178), [Living Landslide](http://2e.aonprd.com/Monsters.aspx?ID=183), [Living Wildfire](http://2e.aonprd.com/Monsters.aspx?ID=188), and [Living Waterfall](http://2e.aonprd.com/Monsters.aspx?ID=197))
     * For 5 players give each of the elementals the Elite adjustment.
 * **M2. The Spinning Serpents (Low 8)**
-    * [Oriana](https://monster.pf2.tools/v/30O20Qx9)
-    * **Treasure:** [Maiden’s Helm](https://template.pf2.tools/v/VXDljOWO-maiden-s-helm), +1 Striking Longsword, +1 Striking Composite Shortbow, +1 Gray Maiden Plate, [Elixir of Life (Lesser)](http://2e.aonprd.com/Equipment.aspx?ID=91)
+    * [Oriana](https://monster.pf2.tools/v/30O20Qx9) ([image](../Creatures/oriana.png))
+    * **Treasure:** [Maiden’s Helm](https://template.pf2.tools/v/VXDljOWO-maiden-s-helm)  ([image](../Items/maidens-helm.png)), +1 Striking Longsword, +1 Striking Composite Shortbow, +1 Gray Maiden Plate, [Elixir of Life (Lesser)](http://2e.aonprd.com/Equipment.aspx?ID=91)
     * If Oriana survives she gives the party her equipment in exchange for helping any surviving Gray Maiden’s start a new life in Magnimar.
 * **M3. Sorshen’s Boudoir (Extreme 8)**
-    * [Ashamintallu](https://monster.pf2.tools/v/TcF0Ovp6)
-    * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) (2)
+    * [Ashamintallu](https://monster.pf2.tools/v/TcF0Ovp6) ([image](../Creatures/ashamintallu.png))
+    * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) ([image](../Creatures/incubus.png)) (2)
     * For 5 players add 2 more Incubi
     * Each player may make a DC25 diplomacy or intimidate check after talking with Ashamintallu.  Change +10/+5 bonuses in the book to +4/+2 circumstance bonuses.  Give the party 1 point for each success, 2 for critical success.  Increase the number of successes required for the 3rd and 4th level by 1 for each PC above 4. All effects are cumulative
         * 1 point: Ashamintallu is frightened 1
@@ -330,7 +330,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
         * 4 points: Ashamintallu is slowed 1.
     * _This is the first extreme level encounter I’ve put in these conversions.  This encounter will be quite difficult if your party doesn’t have the help of Oriana or the ability to get a few successes while talking to Ashamintallu._
 * **M4. The Arcane Oubliette**
-    * **Treasure:** [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust), Spellbook containing the following uncommon spells: [Aromatic Lure](https://2e.aonprd.com/Spells.aspx?ID=812), [Clownish Curse](https://2e.aonprd.com/Spells.aspx?ID=642), [Favorable Review](https://2e.aonprd.com/Spells.aspx?ID=644), +1 Breastplate, [Goggles of Night](https://2e.aonprd.com/Equipment.aspx?ID=438), [Boots of Bounding](https://2e.aonprd.com/Equipment.aspx?ID=412), 100gp in misc treasure
+    * **Treasure:** [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust) ([image](../Items/shard-of-lust.png)), Spellbook containing the following uncommon spells: [Aromatic Lure](https://2e.aonprd.com/Spells.aspx?ID=812), [Clownish Curse](https://2e.aonprd.com/Spells.aspx?ID=642), [Favorable Review](https://2e.aonprd.com/Spells.aspx?ID=644), +1 Breastplate, [Goggles of Night](https://2e.aonprd.com/Equipment.aspx?ID=438), [Boots of Bounding](https://2e.aonprd.com/Equipment.aspx?ID=412), 100gp in misc treasure
 
 ## Side Quests
 
@@ -342,6 +342,6 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 
 ## Shards
 
-* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
-* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
-* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust)
+* [Shard of Pride](https://template.pf2.tools/v/DtOS4T83) ([image](../Items/shard-of-pride.png))
+* [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR) ([image](../Items/shard-of-greed.png))
+* [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust) ([image](../Items/shard-of-lust.png))

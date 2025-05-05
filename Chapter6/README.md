@@ -24,7 +24,7 @@
         * **Failure** Fall prone
         * **Critical Failure** Fall prone and take 3d6 bashing damage
     * For 5 players remove the Weak adjustment.
-    * **Treasure:** The [Sihedron](https://template.pf2.tools/v/0Dh1J8xh-sihedron) may now be claimed by the party.
+    * **Treasure:** The [Sihedron](https://template.pf2.tools/v/0Dh1J8xh-sihedron) ([image](../Items/sihedron.png)) may now be claimed by the party.
     * **Development:** Once the Shriezyx has been defeated allow each character to make a DC40 perception check. On a success they notice the flurry of activity in Beacon's Point which can clue them in on the incoming tsunami. A DC35 Nature check can tell the characters that a tsunami typically follows a costal earthquake, while a critical success gives them more precise timing.
 
 * **Event 4: Heralds of Xin (Low 18)**
@@ -33,7 +33,7 @@
 
 * **Event 5: Enraged Denizen (Moderate 18)**
     * The streets of Magnimar remain flooded. Small creatures must swim to move, while medium creatures treat the streets as greater difficult terrain if trying to walk on foot. The DC to swim is 25.
-    * [Aureusa](https://monster.pf2.tools/v/hf9sXdBm-scylla)
+    * [Aureusa](https://monster.pf2.tools/v/hf9sXdBm-scylla) ([image](../Creatures/scylla.png))
     * **Treasure:** Thassilon-era gold jewelry worth 1000 gp, [Bracers of Armor III](https://2e.aonprd.com/Equipment.aspx?ID=416)
     * For 5 players give Aureusa the elite adjustment and add another 1000gp of jewelry.
 
@@ -68,8 +68,8 @@
   * Characters can learn about the Xin-Haunted abilities with a DC42 Recall Knowledge check (Religion or Occultism)
 
 * Palace Traps
-  * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers)
-  * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand)
+  * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) ([image](../Hazards/crystal-slivers.png))
+  * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand) ([image](../Hazards/crushing-crystal-hand.png))
 
 #### Ground Floor
 
@@ -111,13 +111,13 @@
   * [Aiudara Wraith](https://2e.aonprd.com/Monsters.aspx?ID=488) (2)
 
 * **A7. Spellwell of Generosity (Trivial 19)**
-  * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers)
+  * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) ([image](../Hazards/crystal-slivers.png))
   * With a DC35 arcana check an arcane prepared caster can use the *spellwell* while preparing spells to prepare any common transmutation spell. In addition, transmutation spells they cast that day count as 1 level higher for the purpose of counteracting them. All others must make a DC35 basic will save or take 5d8 nonlethal mental damage and become stupified 1 for an hour (stupified 2 on a critical failure).
   * **Treasure:** The adamantine chair is worth 500 gp.
 
 * **A8. Azlanti Archives (Severe 19)**
   * Advanced [Thulgant](https://2e.aonprd.com/Monsters.aspx?ID=777) (Level 20) (2)
-  * **Treasure:** Scroll of [Summon Entity](https://2e.aonprd.com/Spells.aspx?ID=321) (Level 9), Scroll of [Wish](https://2e.aonprd.com/Spells.aspx?ID=377), [Possibility Tome](https://2e.aonprd.com/Equipment.aspx?ID=262), [Flamma Horacalcum](https://template.pf2.tools/v/J6qDJoH6-flamma-horacalcum), a black sapphire worth 4000 gp.
+  * **Treasure:** Scroll of [Summon Entity](https://2e.aonprd.com/Spells.aspx?ID=321) (Level 9), Scroll of [Wish](https://2e.aonprd.com/Spells.aspx?ID=377), [Possibility Tome](https://2e.aonprd.com/Equipment.aspx?ID=262), [Flamma Horacalcum](https://template.pf2.tools/v/J6qDJoH6-flamma-horacalcum) ([image](../Items/flamma-horacalcum.png)), a black sapphire worth 4000 gp.
 
   #### The Lower Hold
 
@@ -136,7 +136,7 @@
 
   * **B2. Spare Parts (Low 19)**
     * **Hazard:** Creatures near the door when it's opened are swept into the room. Creatures with 10 feet must make a DC40 swim check to avoid this, reduce the DC by 5 for every 5 feet further a creature is. Creatures swept into the room take 10d6 bludgeoning damage (doubled on a critical failure) and are subjected to the trap below.
-    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand)
+    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand) ([image](../Hazards/crushing-crystal-hand.png))
 
   * **B3. Foundry (Severe 19)**
     * Xin-Haunted [Clockwork Amalgam](https://2e.aonprd.com/Monsters.aspx?ID=1008)
@@ -161,15 +161,15 @@
 
   * **C2. Clockwork Orchestra (Moderate 19)**
     * **Hazard:** Discordant Orchestra (Use [Banshee's Symphony](https://2e.aonprd.com/Hazards.aspx?ID=29))
-    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand)
-    * **Treasure:** [Greater Horn of Blasting](https://template.pf2.tools/v/zo2O4sv3-horn-of-blasting-greater)
+    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand) ([image](../Hazards/crushing-crystal-hand.png))
+    * **Treasure:** [Greater Horn of Blasting](https://template.pf2.tools/v/zo2O4sv3-horn-of-blasting-greater) ([image](../Items/horn-of-blasting-greater.png))
     * **Development:** If the *flamma horacalcum* is used to illuminate the discordant orchestra trap before it triggers, the music gives each creature in the area the effects of a level 6 [Heroism](https://2e.aonprd.com/Spells.aspx?ID=149) for 1 hour.
 
   * **C3. Abyssal Biology (Trivial 19)**
     * Elite [Fleshforged Dreadnought](https://2e.aonprd.com/Monsters.aspx?ID=2407)
       * Reduce size to huge
       * Add an Eye Rays ranged attack with a range of 30 feet, a +35 to hit and which has the effects of a [Chromatic Ray](https://2e.aonprd.com/Spells.aspx?ID=883) (level 6)
-    * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) (2)
+    * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) ([image](../Hazards/crystal-slivers.png)) (2)
     * **Treasure:** [Greater Marvelous Medicines](https://2e.aonprd.com/Equipment.aspx?ID=261), [True Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91)
     * For 5 players advance the dreadnought to level 20 and add a second Elixir of life and a [Greater Insight Coffee (toffee)](https://2e.aonprd.com/Equipment.aspx?ID=1920)
 
@@ -195,8 +195,8 @@
     * **Treasure:** This spellwell functions like the spellwell in **A7** but for evocation spells. The chair is made of siccatite and deals 1d6 fire damage per round when sat in. The chair is worth 250gp.
 
   * **C9. Spellwell of Love (Trivial 19)**
-    * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) (2)
-    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand)
+    * **Hazard:** [Crystal Slivers](https://template.pf2.tools/v/5twrH55T-crystal-slivers) ([image](../Hazards/crystal-slivers.png)) (2)
+    * **Hazard:** [Crushing Crystal Hand](https://template.pf2.tools/v/5SW0oFcy-crushing-crystal-hand) ([image](../Hazards/crushing-crystal-hand.png))
     * **Treasure:** This spellwell functions like the spellwell in **A7** but for enchantment spells. The chair is made of djezet and  is worth 100gp.
 
   * **C10. Skymetal Nexus (Severe 19)**
@@ -249,9 +249,9 @@
     * **Hazard:** Each round creatures are exposed to Abysium Powder with each breath, make a DC42 Fortitude Save
       * **Critical Success** No effect, immune for 1 minute
       * **Success** Sickened 1
-      * **Failure** Poisoned by [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder) stage 1
-      * **Critical Failure** Poisoned by [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder) stage 2
-    * **Treasure:** 4 doses of [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder), 40 [Abysium Chunks](https://2e.aonprd.com/Equipment.aspx?ID=1405)
+      * **Failure** Poisoned by [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder) ([image](../Items/enhanced-abysium-powder.png)) stage 1
+      * **Critical Failure** Poisoned by [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder) ([image](../Items/enhanced-abysium-powder.png)) stage 2
+    * **Treasure:** 4 doses of [Enhanced Abysium Powder](https://template.pf2.tools/v/oyolmjfO-enhanced-abysium-powder) ([image](../Items/enhanced-abysium-powder.png)), 40 [Abysium Chunks](https://2e.aonprd.com/Equipment.aspx?ID=1405)
 
   #### The Apex
 
@@ -274,7 +274,7 @@
     * This spellwell boosts evocation spells in the same way as the other spellwells.
 
   * **E4. The Dead Heart of Xin (Extreme 20)**
-    * [Clockwork Reliquary](https://monster.pf2.tools/v/Fql973Rs-clockwork-reliquary)
+    * [Clockwork Reliquary](https://monster.pf2.tools/v/Fql973Rs-clockwork-reliquary) ([image](../Creatures/clockwork-reliquary.png))
       * The clockwork reliquary may use any remaining daily spells from Xin's Spirit with an increased DC. These are listed in the reliquary's stat block.
     * Axiomite of Xin (4)
       * When the reliquary is below maximum HP the axiomites each use one of their actions to repair the reliquary. For each living axiomite the reliquary gains fast healing 10.
