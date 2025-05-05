@@ -28,7 +28,7 @@ _If you’ve been following my additions then you will be starting this mission 
 * **H1. Foundry Floor**
     * DC15 Engineering Lore (or similar) to notice the building is larger than the room
     * Cultists (Use [Farmer](http://2e.aonprd.com/NPCs.aspx?ID=914) for initiates, [Cultist](http://2e.aonprd.com/NPCs.aspx?ID=927) for Cultists)
-    * **Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance)
+    * **Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance) ([image](../Items/sihedron-brand-endurance.png))
 * **H3. Furnace (Low 9)**
     * If the characters provide the correct answer a Resist Energy (Level 7) is cast on them.
     * **Hazard:** Each round in the fire a creature takes 3d6 fire damage (DC25 basic Fortitude save). After 5 rounds the rear door opens automatically. DC28 (Master) Thievery can open the door early. DC23 (Expert) Thievery can disable the bellows. 
@@ -40,7 +40,7 @@ _If you’ve been following my additions then you will be starting this mission 
     * Feasters of the Heart (2)
 * **H6. Sanguine Baptism**
     * Feaster of the Heart
-    * [Charito Menas](https://monster.pf2.tools/v/x6cyVpYz-charito-menas)
+    * [Charito Menas](https://monster.pf2.tools/v/x6cyVpYz-charito-menas) ([image](../Creatures/charito-menas.png))
     * **Treasure:** +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2)
 * **H7. Inner Sanctum (Severe 9)**
     * Ilan Costa (Use [Vampire Mastermind](http://2e.aonprd.com/Monsters.aspx?ID=401))

@@ -22,7 +22,7 @@ _In my game I went straight from Words of the Ancients to this, so it was conven
         * Touching the door triggers a [Vampiric Touch](https://2e.aonprd.com/Spells.aspx?ID=354) (Level 7, DC34). A sihedron brand or similar adornment makes the wearer immune to this effect. Each 5 damage done this way reduces the 90 minute timer by 1 minute.
 * **A3. The Waking Runes (Moderate 13)**
     * Each rune can be identified using Identify Magic DC30 (expert) using any spellcasting skill. Each rune has a specific skill that is more appropriate and reduces the DC by 2. Successfully identifying a rune reveals the ritual necessary to destroy the rune and gives a hint as to which effects are best while a critical success gives precise details. A failure only identifies the type of rune.
-    * Destroying a rune is done in two parts. First a ritual is performed to remove the protective magics from the rune. This takes 5 minutes, requires 1 primary caster and 1 secondary caster and is DC32 (expert) for the primary and DC27 for the secondary in any spellcasting skill. Each of these DCs is reduced by 2 for the appropriate spellcasting skill. A failure on the ritual has no penalty, but a critical failure subjects both casters to the [Curse of Sloth](https://template.pf2.tools/v/Tr4Mm0w7-curse-of-sloth).
+    * Destroying a rune is done in two parts. First a ritual is performed to remove the protective magics from the rune. This takes 5 minutes, requires 1 primary caster and 1 secondary caster and is DC32 (expert) for the primary and DC27 for the secondary in any spellcasting skill. Each of these DCs is reduced by 2 for the appropriate spellcasting skill. A failure on the ritual has no penalty, but a critical failure subjects both casters to the [Curse of Sloth](https://template.pf2.tools/v/Tr4Mm0w7-curse-of-sloth) ([image](../Hazards/curse-of-sloth.png)).
     * After the protective magics have been stripped from a rune it can be destroyed with appropriate spells/effects or by damaging the rune with physical or magical attacks. Either the primary or secondary caster must continue to perform the ritual during this step, but no longer has to make any checks to hold the protective magics at bay. Using an appropriate effect during this step instantly destroys the rune and the attacker suffers no consequences. Each use of an inappropriate attack/effect against a rune deals damage to it as normal, but subjects the attacker to the _Curse of Sloth_.
     * Each runes base statistics are:
         * HP 50, Hardness 15
@@ -61,7 +61,7 @@ _In my game I went straight from Words of the Ancients to this, so it was conven
     * For 4 players remove 1 of the poisoners.
 * **A5. The Innermost Sanctum (Severe+ 13)**
     * _After defeating the combatants in A4 the party should have a single 10 minute period to rest before Krune rises._
-    * [Runelord Krune](https://monster.pf2.tools/v/oXLbJZzB)
+    * [Runelord Krune](https://monster.pf2.tools/v/oXLbJZzB) ([image](../Creatures/runelord-krune.png))
         * Each rune from A3 that was not disabled increases Krune’s power
         * Rune of Alacrity - Krune gains +2 on initiative rolls and is under a constant [haste](https://2e.aonprd.com/Spells.aspx?ID=147) effect.
         * Rune of Armor - Krune gains a +2 status bonus to AC. When using the [Shield](https://2e.aonprd.com/Spells.aspx?ID=280) Cantrip it grants a +2 circumstance bonus to AC and the 10 minute cooldown after using the shield block reaction is removed.

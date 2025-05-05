@@ -8,7 +8,7 @@ _Unlike the original this version is meant for a party of 5 level 2 characters. 
     * Characters may make a Lore (Ancient Thassilon) recall knowledge at the listed DCs.  They may also make a Society check at a -2.
 * Knowledge (Religion)
     * Characters may make a Lore (Ancient Thassilon) or Religion recall knowledge check at the listed DCs.
-* [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44)
+* [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44) ([image](../Items/acrimony-veil.png))
 
 ## Arrival at Rivenrake Isle
 

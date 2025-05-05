@@ -32,7 +32,7 @@ _Give the players the Silver Faction mission (or a paraphrase of it) in addition
 
 ### The Market Spirit (Severe 9)
 
-* [Galdron Greenheart](https://monster.pf2.tools/v/dv5hH6V1)
+* [Galdron Greenheart](https://monster.pf2.tools/v/dv5hH6V1) ([image](../Creatures/galdron-greenheart.png))
 * [Striding Fire](http://2e.aonprd.com/Monsters.aspx?ID=657) (4)
 * **Treasure:** [Elemental Gem (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=243), [Necklace of Fireballs III](http://2e.aonprd.com/Equipment.aspx?ID=449)
 
